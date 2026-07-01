@@ -1,0 +1,312 @@
+Opportunity_External_ID__c,Name,AccountId,StageName,CloseDate,Amount,Description
+conedison_opty,Con Edison Grant Application,001Ox00001aKW06IAG,Application Submitted,2026-04-30,,
+nbcuniversal_opty,NBC Universal Grant Application,001Ox00001aKW07IAG,Prospecting,2026-12-31,227000,"Grant range: $227,000"
+thecitifoundation_opty,The Citi Foundation Grant Application,001Ox00001aKW08IAG,Prospecting,2026-12-31,,
+citifoundation_opty,Citi Foundation Grant Application,,Prospecting,2025-03-04,,
+wellsfargofoundation_opty,Wells Fargo Foundation Grant Application,001Ox00001aKW09IAG,Prospecting,2026-12-31,50000,"Grant range: $50,000"
+costco_opty,Costco Grant Application,001Ox00001aKcr1IAC,Prospecting,2026-12-31,10000,"Grant range: $10,000"
+deloitte_opty,Deloitte Grant Application,,Prospecting,2026-12-31,,
+resortworld_opty,Resort World Grant Application,001Ox00001aKW0AIAW,Prospecting,2026-12-31,,"Grant range: Up to $50,000"
+tjmaxxtjxcommunitymissiongrant_opty,TJ Maxx : TJX Community Mission Grant Grant Application,001Ox00001aKW0BIAW,Prospecting,2026-10-31,,
+citifoundation_opty,Citi Foundation Grant Application,,Prospecting,2026-02-18,,
+poncedeleonfoundation_opty,Ponce De Leon Foundation Grant Application,,Prospecting,2026-12-31,5000,"Grant range: $5,000-$30,000"
+nordstrom_opty,Nordstrom Grant Application,001Ox00001aKXXHIA4,Prospecting,2026-12-31,5000,"Grant range: $5,000-$20,000"
+dollargeneralyouthliteracygrant_opty,Dollar General Youth Literacy Grant Grant Application,001Ox00001aKcqzIAC,Prospecting,2026-04-02,,Grant range: up to $5000
+walmartsparksgoodgrant_opty,Walmart Sparks Good Grant Grant Application,001Ox00001aKcqyIAC,Prospecting,2026-04-15,250,"Grant range: $250 - $5,000"
+nbcuniversallocalimpactgrant_opty,NBC Universal Local Impact Grant Grant Application,001Ox00001aKcr4IAC,Prospecting,2026-04-24,,Grant range: Varies
+tdcharitablefoundationcapacitybuildingfund_opty,TD Charitable Foundation - Capacity Building Fund Grant Application,001Ox00001aKcr6IAC,Prospecting,2026-05-15,100000,"Grant range: $100,000"
+thetjxfoundation_opty,The TJX Foundation Grant Application,001Ox00001aKcr5IAC,Prospecting,2026-10-31,,"Grant range: Average - $5,000"
+resortworldgives_opty,Resort World Gives Grant Application,001Ox00001aDMPFIA4,Prospecting,2026-11-01,50000,"Grant range: $50,000"
+disneygrant_opty,Disney Grant Grant Application,,Prospecting,2026-12-31,5000,"Grant range: $5,000"
+target_opty,Target Grant Application,001Ox00001aKHyrIAG,Application Submitted,2026-04-11,1000,"Grant range: $1,000 - $2,000 per 90-day campaign, minimum of $500"
+magnoliabakeryinkind_opty,Magnolia Bakery In-Kind Grant Application,001Ox00001aKHysIAG,Application Submitted,2026-12-31,,Grant range: In-Kind
+morganstanleyscopeathonchallengeassessment_opty,Morgan Stanley ScopeAthon Challenge Assessment Grant Application,001Ox00001aKHytIAG,Application Submitted,2026-12-31,,
+thrivecausemeticsinkind_opty,Thrive Causemetics In Kind Grant Application,001Ox00001aKHyuIAG,Prospecting,2026-12-31,,Grant range: In-kind product donation
+popularbank_opty,Popular Bank Grant Application,001Ox00001aKHyvIAG,Prospecting,2026-12-31,,
+disneygrant_opty,Disney Grant Grant Application,,Prospecting,2026-12-31,5000,"Grant range: $5,000"
+blackrockfoundation_opty,BlackRock Foundation Grant Application,001Ox00001aKdMXIA0,Prospecting,2026-12-31,,
+cushmanwakefieldcharitablefoundation_opty,Cushman & Wakefield Charitable Foundation Grant Application,001Ox00001aKdMYIA0,Prospecting,2026-12-31,,
+deloittefoundation_opty,Deloitte Foundation Grant Application,001Ox00001aKdMZIA0,Prospecting,2026-12-31,,
+macys_opty,Macy's Grant Application,001Ox00001aKdMaIAK,Prospecting,2026-12-31,,
+thecocacolafoundation_opty,The CocaCola Foundation Grant Application,001Ox00001aKcr0IAC,Prospecting,2026-12-31,,"Grant range: $10,000 up to $5,000,000"
+alogivesfoundation_opty,Alo Gives Foundation Grant Application,001Ox00001aKcr3IAC,Prospecting,2026-12-31,,"Grant range: Median: $15,000 - $23,000"
+statestreet_opty,State Street Grant Application,001Ox00001aKcqHIAS,Prospecting,2024-12-31,,Grant range: Operating support grants must not exceed 15% of an organization's total budget.
+fondationchanel_opty,Fondation Chanel Grant Application,001Ox00001aKcqIIAS,Prospecting,2026-12-31,35000,"Grant range: $35,000 - $250,000"
+mccormickfamilyfoundation_opty,McCormick Family Foundation Grant Application,001Ox00001aKcqJIAS,Prospecting,2026-12-31,,"Grant range: Median: $25,000"
+tjmaxx_opty,TJ Maxx Grant Application,001Ox00001aKcqKIAS,Prospecting,2026-12-31,50000,"Grant range: $50,000"
+capitalonefoundation_opty,Capital One Foundation Grant Application,001Ox00001aKcqLIAS,Prospecting,2026-12-31,,
+estelauder_opty,Estée Lauder Grant Application,001Ox00001aKcqMIAS,Prospecting,2026-12-31,,
+roberthalf_opty,Robert Half Grant Application,001Ox00001aKcqNIAS,Prospecting,2026-12-31,,
+geico_opty,GEICO Grant Application,001Ox00001aKcqOIAS,Prospecting,2026-12-31,,
+nationalgrid_opty,National Grid Grant Application,001Ox00001V7FlUIAV,Prospecting,2026-12-31,,
+pepsicofoundation_opty,PepsiCo Foundation Grant Application,001Ox00001aKcqPIAS,Prospecting,2026-12-31,25000,"Grant range: $25,000-$300,000"
+dollargeneral_opty,Dollar General Grant Application,001Ox00001aKcqQIAS,Prospecting,2026-12-31,3000,"Grant range: $3,000-$10,000"
+jetblue_opty,JetBlue Grant Application,,Prospecting,2026-12-31,,
+mastercard_opty,Master Card Grant Application,,Prospecting,2026-12-31,,
+verizonfoundationpotentialsbutwedoneedverizonrowunderpartners_opty,Verizon Foundation - Potentials Grant Application,001Ox00001aKcqRIAS,Prospecting,2026-12-31,,
+alo_opty,Alo Grant Application,001Ox00001aKcqSIAS,Prospecting,2026-12-31,,
+nationwidemutualinsurancecompany_opty,Nationwide Mutual Insurance company Grant Application,001Ox00001aKcqTIAS,Prospecting,2026-12-31,,
+unionbank_opty,Union Bank Grant Application,001Ox00001aKcqUIAS,Prospecting,2026-12-31,,
+thestandard_opty,The Standard Grant Application,001Ox00001aKUWAIA4,Prospecting,2026-12-31,,
+thejmsmuckercompany_opty,The J.M. Smucker Company. Grant Application,001Ox00001aKcqVIAS,Prospecting,2026-12-31,,
+dishnetwork_opty,Dish Network Grant Application,001Ox00001aKcqWIAS,Prospecting,2026-12-31,,
+feldentertainment_opty,Feld Entertainment Grant Application,001Ox00001aKcqXIAS,Prospecting,2026-12-31,,
+ramirezassetmanagement_opty,Ramirez Asset Management Grant Application,001Ox00001aKcqYIAS,Prospecting,2026-12-31,,
+buzzfeed_opty,Buzzfeed Grant Application,001Ox00001aKcqZIAS,Prospecting,2026-12-31,,
+charlesschwab_opty,Charles Schwab Grant Application,001Ox00001aKcqaIAC,Prospecting,2026-12-31,,
+paypalinc_opty,PayPal Inc. Grant Application,001Ox00001aKcqbIAC,Prospecting,2026-12-31,,
+aerie_opty,Aerie Grant Application,001Ox00001aKcqcIAC,Prospecting,2026-12-31,,
+cosmopolitanoflasvegas_opty,Cosmopolitan of Las Vegas Grant Application,001Ox00001aKcqdIAC,Prospecting,2026-12-31,,
+generalmotors_opty,General Motors Grant Application,001Ox00001aKcqeIAC,Prospecting,2026-12-31,,
+joann_opty,Joann Grant Application,001Ox00001aKcqfIAC,Prospecting,2026-12-31,,
+thecumminsfoundation_opty,The Cummins Foundation Grant Application,001Ox00001aKcqgIAC,Prospecting,2026-12-31,,
+mihuzo_opty,Mihuzo Grant Application,001Ox00001aKcqhIAC,Prospecting,2026-12-31,,
+ups_opty,UPS Grant Application,001Ox00001aKcqiIAC,Prospecting,2026-12-31,,
+theprudentialfoundation_opty,The Prudential Foundation Grant Application,001Ox00001aKcqjIAC,Prospecting,2026-12-31,,
+qualcommincorporatedcorporategivingprogram_opty,QUALCOMM Incorporated Corporate Giving Program Grant Application,001Ox00001aKcqkIAC,Prospecting,2026-12-31,,
+mutualofamericafinancialgroup_opty,Mutual Of America Financial Group Grant Application,001Ox00001aKcqlIAC,Prospecting,2026-12-31,,
+customersbank_opty,Customers Bank Grant Application,001Ox00001aKcqmIAC,Prospecting,2026-12-31,,
+cocacola_opty,Coca Cola Grant Application,001Ox00001aKcqnIAC,Prospecting,2026-12-31,,
+statefarm_opty,State Farm Grant Application,001Ox00001aKcqoIAC,Prospecting,2026-12-31,,
+americanexpress_opty,American Express Grant Application,001Ox00001aKcqpIAC,Prospecting,2026-12-31,,
+deutschebankamericas_opty,Deutsche Bank Americas Grant Application,001Ox00001aKcqqIAC,Prospecting,2026-12-31,,
+jetblue_opty,JetBlue Grant Application,,Prospecting,2026-12-31,,
+mastercard_opty,Master Card Grant Application,,Prospecting,2026-12-31,,
+nationalgrid_opty,National Grid Grant Application,001Ox00001V7FlUIAV,Prospecting,2026-12-31,,
+newbalance_opty,New Balance Grant Application,001Ox00001aKcqrIAC,Prospecting,2026-12-31,,
+mazdafoundation_opty,Mazda Foundation Grant Application,001Ox00001V7FlWIAV,Prospecting,2026-12-31,,
+coachfoundation_opty,Coach Foundation Grant Application,001Ox00001V7FlqIAF,Prospecting,2026-12-31,,
+brooklynnets_opty,Brooklyn Nets Grant Application,001Ox00001aKcqsIAC,Prospecting,2026-12-31,15000,"Grant range: $15,000-$25,000"
+wholefoodsgardengrantprogram_opty,Whole Foods Garden Grant Program Grant Application,001Ox00001aKcqtIAC,Prospecting,2026-12-31,,"Grant range: $3,000 monetary grant to support a new or existing edible educational garden"
+newyorkcommunitybankfoundationgrants_opty,New York Community Bank Foundation Grants Grant Application,001Ox00001aKcquIAC,Prospecting,2026-10-31,,
+conedisoninquiryform_opty,ConEdison Inquiry Form Grant Application,001Ox00001aKcqvIAC,Prospecting,2026-04-30,,
+morganstanley_opty,Morgan Stanley Grant Application,001Ox00001aKcqwIAC,Prospecting,2026-12-31,,
+societyofhispanicproffesionalengineers_opty,Society of Hispanic Proffesional Engineers Grant Application,001Ox00001aKcqxIAC,Prospecting,2026-07-01,,"Grant range: andreab@shpe.org
+shpenational@shpe.org
+events@shpe.org
+programs@shpe.org"
+walmartsparksgoodgrant_opty,Walmart Sparks Good Grant Grant Application,001Ox00001aKcqyIAC,Prospecting,2026-04-15,250,"Grant range: $250 - $5,000"
+dollargeneralyouthliteracygrant_opty,Dollar General Youth Literacy Grant Grant Application,001Ox00001aKcqzIAC,Prospecting,2026-04-02,,Grant range: up to $5000
+thecocacolafoundation_opty,The CocaCola Foundation Grant Application,001Ox00001aKcr0IAC,Prospecting,2026-12-31,,"Grant range: $10,000 up to $5,000,000"
+costco_opty,Costco Grant Application,001Ox00001aKcr1IAC,Prospecting,2026-12-31,,Grant range: Varies
+fivebelowfoundation_opty,Five Below Foundation Grant Application,001Ox00001aKcr2IAC,Prospecting,2026-12-31,,Grant range: 10% of sales from supporters who present the events flyer on selected date(s)
+alogivesfoundation_opty,Alo Gives Foundation Grant Application,001Ox00001aKcr3IAC,Prospecting,2026-12-31,,"Grant range: Median: $15,000 - $23,000"
+thestandard_opty,The Standard Grant Application,001Ox00001aKUWAIA4,Prospecting,2026-12-31,,"Grant range: $500 to $25,000."
+nbcuniversallocalimpactgrant_opty,NBC Universal Local Impact Grant Grant Application,001Ox00001aKcr4IAC,Prospecting,2026-04-24,,Grant range: Varies
+thetjxfoundation_opty,The TJX Foundation Grant Application,001Ox00001aKcr5IAC,Prospecting,2026-10-31,,"Grant range: Average - $5,000"
+resortworldgives_opty,Resort World Gives Grant Application,001Ox00001aDMPFIA4,Prospecting,2026-11-01,50000,"Grant range: $50,000"
+tdcharitablefoundationcapacitybuildingfund_opty,TD Charitable Foundation - Capacity Building Fund Grant Application,001Ox00001aKcr6IAC,Prospecting,2026-05-15,100000,"Grant range: $100,000"
+brooklynnets_opty,Brooklyn Nets Grant Application,001Ox00001aKcqsIAC,Prospecting,2026-12-31,15000,"Grant range: $15,000-$25,000"
+geico_opty,Geico Grant Application,001Ox00001aKcqOIAS,Prospecting,2026-12-31,,Grant range: Varies
+costco_opty,Costco Grant Application,001Ox00001aKcr1IAC,Prospecting,2026-12-31,,Grant range: Varies
+thestandard_opty,The Standard Grant Application,001Ox00001aKUWAIA4,Prospecting,2026-12-31,,"Grant range: $500 to $25,000."
+hispanicfederation2026upliftnewyorkstate_opty,Hispanic Federation 2026 UPLift New York State Grant Application,001Ox00001V7FlMIAV,Application Submitted,2026-02-06,,
+viapathfoundation_opty,ViaPath Foundation Grant Application,001Ox00001aDMOtIAO,Application Submitted,2026-02-20,,"Grant range: cap of $50,000 over a three-year period"
+spectrumdigitaleducationgrant_opty,Spectrum Digital Education Grant Grant Application,001Ox00001aDMOuIAO,Application Submitted,2026-02-27,2500,"Grant range: $2,500 - $50,000"
+marysmulligancharitabletrustbankofamerica_opty,Mary S. Mulligan Charitable Trust (Bank of America) Grant Application,001Ox00001aDMOvIAO,Application Submitted,2026-03-01,,"Grant range: $2,000 up to about $36,150"
+americaneaglefoundation_opty,American Eagle Foundation Grant Application,001Ox00001aDMOwIAO,Application Submitted,2026-03-02,5000,"Grant range: $5,000 - $15,000"
+unidosus–pionerasenstem_opty,UnidosUS – Pioneras en STEM Grant Application,,Application Submitted,2026-04-01,20000,"Grant range: $20,000"
+unidosus–escaleras_opty,UnidosUS – Escaleras Grant Application,,Application Submitted,2026-04-01,40000,"Grant range: $40,000"
+thefrancesledwinlcummingsmemorialfund_opty,The Frances L. & Edwin L. Cummings Memorial Fund Grant Application,001Ox00001aDMOxIAO,Application Submitted,2026-04-01,,"Grant range: Average - $70,000"
+laurabvoglerfoundation_opty,Laura B. Vogler Foundation Grant Application,001Ox00001aDMOyIAO,Application Submitted,2026-07-01,3000,"Grant range: $3,000–$4,000"
+williamtgrantfoundationyouthserviceimprovementgrant_opty,William T. Grant Foundation (Youth Service Improvement Grant) Grant Application,001Ox00001aDMOzIAO,Application Submitted,2026-12-31,25000,"Grant range: $25,000"
+mothercabrinihealthfoundation_opty,Mother Cabrini Health Foundation Grant Application,001Ox00001aDMP2IAO,Application Submitted,2026-04-23,,"Grant range: $75,000+"
+brooklynorg_opty,Brooklyn Org Grant Application,001Ox00001aDMP3IAO,Application Submitted,2026-09-30,,
+nbcuniverallocalimpactgrant_opty,NBCUniveral Local Impact Grant Grant Application,001Ox00001b5sF5IAI,Application Submitted,2026-04-24,,Grant range: No more than 30% of reported expenses
+lawrencefoundation_opty,Lawrence Foundation Grant Application,001Ox00001aDMP5IAO,Application Submitted,2026-04-30,5000,"Grant range: $5,000 - $10,000"
+acquisfoundation_opty,Acquis Foundation Grant Application,001Ox00001aDMP6IAO,Application Submitted,2026-04-30,25000,"Grant range: $25,000"
+theslomo&cindysiivianfoundation_opty,The Slomo & Cindy Siivian Foundation Grant Application,001Ox00001aDMP7IAO,Application Submitted,2026-06-01,20000,"Grant range: $20,000"
+newprofit_opty,New Profit Grant Application,001Ox00001aDMP8IAO,Application Submitted,2026-05-26,,"Grant range: $110,000 (100k for organization; 10k for leadership development)"
+arborrising_opty,Arbor Rising Grant Application,001Ox00001aDMPEIA4,Prospecting,2026-06-09,125000,"Grant range: $125,000"
+resortworldgives_opty,Resort World Gives Grant Application,001Ox00001aDMPFIA4,Prospecting,2026-11-01,50000,"Grant range: $50,000"
+irmalandabramscrollcharitabletrustwellsfargo_opty,Irma L. and Abram S. Croll Charitable Trust (Wells Fargo) Grant Application,001Ox00001aK056IAC,Prospecting,2026-06-01,,"Grant range: $25,000 to $200,000"
+charlesh.stoutfoundation_opty,Charles H. Stout Foundation Grant Application,001Ox00001V7FlIIAV,Prospecting,2026-06-15,25000,"Grant range: $25,000"
+conciouskidswellsfargo_opty,Concious Kids (Wells Fargo) Grant Application,001Ox00001aK057IAC,Prospecting,2026-06-15,,"Grant range: $10,000 to $20,000"
+irawdecampfoundation_opty,Ira W. DeCamp Foundation Grant Application,001Ox00001aK058IAC,Prospecting,2026-07-15,,"Grant range: $25,000 up to at least $100,000+"
+thepatrinafoundation_opty,The Patrina Foundation Grant Application,001Ox00001aK059IAC,Prospecting,2026-06-30,,Grant range: Varies
+hispanicfederation2026upliftnewyorkstate_opty,Hispanic Federation 2026 UPLift New York State Grant Application,001Ox00001V7FlMIAV,Application Submitted,2026-02-06,,
+viapathfoundation_opty,ViaPath Foundation Grant Application,001Ox00001aDMOtIAO,Application Submitted,2026-02-20,,"Grant range: cap of $50,000 over a three-year period"
+spectrumdigitaleducationgrant_opty,Spectrum Digital Education Grant Grant Application,001Ox00001aDMOuIAO,Application Submitted,2026-02-27,2500,"Grant range: $2,500 - $50,000"
+marysmulligancharitabletrustbankofamerica_opty,Mary S. Mulligan Charitable Trust (Bank of America) Grant Application,001Ox00001aDMOvIAO,Application Submitted,2026-03-01,,"Grant range: $2,000 up to about $36,150"
+americaneaglefoundation_opty,American Eagle Foundation Grant Application,001Ox00001aDMOwIAO,Application Submitted,2026-03-02,5000,"Grant range: $5,000 - $15,000"
+thefrancesledwinlcummingsmemorialfund_opty,The Frances L. & Edwin L. Cummings Memorial Fund Grant Application,001Ox00001aDMOxIAO,Application Submitted,2026-04-01,,"Grant range: Average - $70,000"
+laurabvoglerfoundation_opty,Laura B. Vogler Foundation Grant Application,001Ox00001aDMOyIAO,Application Submitted,2026-07-01,3000,"Grant range: $3,000–$4,000"
+williamtgrantfoundationyouthserviceimprovementgrant_opty,William T. Grant Foundation (Youth Service Improvement Grant) Grant Application,001Ox00001aDMOzIAO,Application Submitted,2026-04-01,25000,"Grant range: $25,000"
+unidosus–pionerasenstem_opty,UnidosUS – Pioneras en STEM Grant Application,,Application Submitted,2026-04-01,20000,"Grant range: $20,000"
+unidosus–escaleras_opty,UnidosUS – Escaleras Grant Application,,Application Submitted,2026-04-01,40000,"Grant range: $40,000"
+mothercabrinihealthfoundation_opty,Mother Cabrini Health Foundation Grant Application,001Ox00001aDMP2IAO,Application Submitted,2026-12-31,,"Grant range: $75,000+"
+brooklynorg_opty,Brooklyn Org Grant Application,001Ox00001aDMP3IAO,Application Submitted,2026-09-30,,
+nbcuniverallocalimpactgrant_opty,NBCUniveral Local Impact Grant Grant Application,001Ox00001b5sF5IAI,Application Submitted,2026-04-24,,Grant range: No more than 30% of reported expenses
+lawrencefoundation_opty,Lawrence Foundation Grant Application,001Ox00001aDMP5IAO,Application Submitted,2026-04-30,5000,"Grant range: $5,000 - $10,000"
+acquisfoundation_opty,Acquis Foundation Grant Application,001Ox00001aDMP6IAO,Application Submitted,2026-12-31,,Grant range: June 11
+theslomo&cindysiivianfoundation_opty,The Slomo & Cindy Siivian Foundation Grant Application,001Ox00001aDMP7IAO,Application Submitted,2026-06-01,20000,"Grant range: $20,000"
+newprofit_opty,New Profit Grant Application,001Ox00001aDMP8IAO,Application Submitted,2026-05-26,,"Grant range: $110,000 (100k for organization; 10k for leadership development)"
+tigerfoundation_opty,Tiger Foundation Grant Application,001Ox00001aDMP9IAO,Application Submitted,2026-12-31,50000,"Grant range: $50,000 - $300,000 (Average $200,000)"
+sillsfamilyfoundation_opty,Sills Family Foundation Grant Application,001Ox00001b5sF7IAI,LOI Submitted,2026-12-31,,"Grant range: $10,000 to $25,000"
+robinhoodfoundation_opty,Robin Hood Foundation Grant Application,001Ox00001aDMPAIA4,Application Submitted,2026-12-31,100000,"Grant range: $100,000 - $1,600,000"
+kars4kids_opty,Kars4Kids Grant Application,001Ox00001aDMPBIA4,Application Submitted,2026-12-31,,"Grant range: $500 to $2,000"
+firsthorizonfoundation_opty,First Horizon Foundation Grant Application,001Ox00001aDMPCIA4,Prospecting,2026-12-31,,"Grant range: $5,000 to $25,000"
+ichigofoundation_opty,Ichigo Foundation Grant Application,001Ox00001aDMPDIA4,Prospecting,2026-12-31,25000,"Grant range: $25,000-$250,000"
+arborrising_opty,Arbor Rising Grant Application,001Ox00001aDMPEIA4,Prospecting,2026-06-09,125000,"Grant range: $125,000"
+None_opty,Resort World Gives Grant Application,,Prospecting,2026-11-01,50000,"Grant range: $50,000"
+None_opty,Forest Hills Stadium Community Fund Grant Application,,Prospecting,2026-12-31,,"Grant range: Tier 1: up to $5000 Tier 2: $5000 - $10,000 Tier 3: $10,000 - $15,000"
+None_opty,CCNSF Grant Application,,Prospecting,2026-10-17,45000,"Grant range: $45,000"
+m&tcharitablefund_opty,M&T Charitable Fund Grant Application,001Ox00001V7FlEIAV,Prospecting,2026-10-31,,Grant range: Varies
+bancopopularfoundation_opty,Banco Popular Foundation Grant Application,001Ox00001V7FlFIAV,Prospecting,2026-08-31,10000,"Grant range: $10,000"
+sillsfamilyfoundation_opty,Sills Family Foundation Grant Application,001Ox00001b5sF7IAI,Application Submitted,2026-12-31,,"Grant range: $10,000 to $25,000"
+mazdafoundation_opty,Mazda Foundation Grant Application,001Ox00001V7FlWIAV,Prospecting,2026-12-31,,"Grant range: Average $350,000+"
+zegarfamilyfoundation_opty,Zegar Family Foundation Grant Application,001Ox00001V7FlXIAV,Prospecting,2026-12-31,,Grant range: 1k-1M
+thestarrfoundation_opty,The Starr Foundation Grant Application,001Ox00001V7FlZIAV,Prospecting,2026-12-31,,Grant range: 50k
+americanexpresscommunitygiving_opty,American Express Community Giving Grant Application,001Ox00001V7FlaIAF,Prospecting,2026-12-31,,Grant range: 10k
+charles&lynnschustermanfamilyphilanthropies_opty,Charles & Lynn Schusterman Family Philanthropies Grant Application,001Ox00001V7FlcIAF,Prospecting,2026-12-31,,Grant range: 30k-50k
+thecricketislandfoundation_opty,The Cricket Island Foundation Grant Application,001Ox00001V7FldIAF,Prospecting,2026-12-31,,Grant range: 20k-100k
+voyafinancialfoundation_opty,Voya Financial Foundation Grant Application,001Ox00001V7FleIAF,Prospecting,2026-12-31,,Grant range: 100k
+schottfoundation_opty,Schott Foundation Grant Application,001Ox00001V7FlhIAF,Prospecting,2026-12-31,,Grant range: N/A
+firstniagara_opty,First Niagara (No website) Grant Application,001Ox00001V7FliIAF,Prospecting,2026-12-31,,Grant range: N/A
+charlesr&winifredrweberfoundation_opty,Charles R & Winifred R Weber Foundation (No website) Grant Application,001Ox00001V7FllIAF,Prospecting,2026-12-31,,Grant range: N/A
+carol&geneludwigfamilyfoundation_opty,Carol & Gene Ludwig Family Foundation Grant Application,001Ox00001V7FloIAF,Prospecting,2026-12-31,,Grant range: N/A
+ainsliefoundation_opty,Ainslie Foundation (No website) Grant Application,001Ox00001V7FlpIAF,Prospecting,2026-12-31,,Grant range: Average - $158K
+ms.foundationforwomen_opty,Ms. Foundation for Women Grant Application,001Ox00001V7FlbIAF,Prospecting,2026-12-31,15000,"Grant range: $15,000 - $25,000"
+theheckscherfoundationforchildren_opty,The Heckscher Foundation for Children Grant Application,001Ox00001aHKWcIAO,Prospecting,2026-12-31,2250,"Grant range: $2,250 - $750,000 (median $135,873)"
+thejpbfoundationnowfreedomtogetherfoundation_opty,The JPB Foundation (Now Freedom Together Foundation) Grant Application,001Ox00001aHKWdIAO,Prospecting,2026-12-31,,"Grant range: $297,013 (avg. new grantee) - $890,202 (avg. repeat grantee) (Median: $500,000)"
+solonesummerfieldfoundation_opty,Solon E. Summerfield Foundation Grant Application,001Ox00001aHKWeIAO,Prospecting,2026-12-31,1000,"Grant range: $1,000 - $986,000 (Average $100,000+)"
+williamrkenanjrcharitabletrustnyc_opty,William R. Kenan Jr. Charitable Trust (NYC) Grant Application,001Ox00001aHKWfIAO,Prospecting,2026-12-31,,"Grant range: $500,000+"
+thewallacefoundation_opty,The Wallace Foundation Grant Application,001Ox00001aHKWgIAO,Prospecting,2026-12-31,,"Grant range: Average - $400,000 over 2.8 years"
+jpmorganchase:thehagedornfund_opty,The Hagedorn Fund (JP Morgan) Grant Application,001Ox00001V7FlmIAF,Prospecting,2026-12-31,,Grant range: No publically available contribution amounts
+thebezosfamilyfoundation_opty,The Bezos Family Foundation Grant Application,001Ox00001aHKWhIAO,Prospecting,2026-12-31,5000,"Grant range: $5,000 - $21,000,000 (Average $75,000)"
+thehelmsleycharitabletrustnyc_opty,The Helmsley Charitable Trust (NYC) Grant Application,001Ox00001aHKWiIAO,Prospecting,2026-12-31,100000,"Grant range: $100,000–$1,000,000"
+verizonfoundation_opty,Verizon Foundation Grant Application,001Ox00001aHKWjIAO,Prospecting,2026-12-31,,Grant range: small to large multi-figure awards
+selectequitygroupfoundation_opty,Select Equity Group Foundation Grant Application,001Ox00001aHKWkIAO,Prospecting,2026-12-31,3000,"Grant range: $3,000 - $300,000"
+pwcfoundationinc_opty,PWC Foundation Inc. Grant Application,001Ox00001aHKWlIAO,Prospecting,2026-12-31,10000,"Grant range: $10,000 - $6,000,000"
+carsonfamilycharitabletrustnowebsite_opty,Carson Family Charitable Trust (No website) Grant Application,001Ox00001aHKWmIAO,Prospecting,2026-12-31,,"Grant range: Median - $150,000"
+billmelindagatesfoundation_opty,Bill & Melinda Gates Foundation Grant Application,001Ox00001ayQ8vIAE,Prospecting,2026-12-31,,"Grant range: $500,000 up to several million"
+goldmansachsgives_opty,Goldman Sachs Gives Grant Application,001Ox00001aHKWoIAO,Prospecting,2026-12-31,,Grant range: Varies
+prospecthillfoundation_opty,Prospect Hill Foundation Grant Application,001Ox00001aHKWpIAO,Prospecting,2026-12-31,,Grant range: Varies
+americanexpressfoundation_opty,American Express Foundation Grant Application,001Ox00001aHKWqIAO,Prospecting,2026-12-31,,Grant range: Depends on project
+theposesfamilyfoundationnowebsite_opty,The Poses Family Foundation (No website) Grant Application,001Ox00001aHKWrIAO,Prospecting,2026-12-31,,"Grant range: Average - $20,000"
+meringofffamilyfoundation_opty,Meringoff Family Foundation Grant Application,001Ox00001V7FljIAF,Prospecting,2026-12-31,,"Grant range: $3,000 up to $75,000+"
+carmelhillfund_opty,Carmel Hill Fund Grant Application,001Ox00001aHKWsIAO,Prospecting,2026-12-31,25000,"Grant range: $25,000 - $250,000"
+thesemnanifamilyfoundation_opty,The Semnani Family Foundation Grant Application,001Ox00001aHKWtIAO,Prospecting,2026-12-31,,Grant range: --
+communitasamericamicrogrant_opty,Communitas America Micro-Grant Grant Application,001Ox00001aKcFBIA0,Prospecting,2026-12-31,,
+patricjmcgovernfoundation_opty,Patric J McGovern Foundation Grant Application,001Ox00001ayQ8wIAE,Prospecting,2026-12-31,,Grant range: Differing amounts
+zegarfamilyfoundation_opty,Zegar Family Foundation Grant Application,001Ox00001V7FlXIAV,Prospecting,2026-12-31,,
+themoriahfund_opty,The Moriah Fund Grant Application,001Ox00001aKcFDIA0,Prospecting,2026-12-31,,Grant range: 50k
+thetowfoundation_opty,The Tow Foundation Grant Application,001Ox00001aKcFEIA0,Prospecting,2026-12-31,,Grant range: 108k average
+macarthurfoundation_opty,MacArthur Foundation Grant Application,001Ox00001aKcFFIA0,Prospecting,2026-12-31,,Grant range: 20k-1M
+theharnischfoundation_opty,The Harnisch Foundation Grant Application,001Ox00001aKcFGIA0,Prospecting,2026-12-31,,Grant range: 1k-100k
+roberttonybadercharitablefoundation_opty,Robert & Tony Bader Charitable Foundation Grant Application,001Ox00001aKcFHIA0,Prospecting,2026-12-31,,Grant range: varying amounts
+thepeterandcarmenluciabuckfoundation_opty,The Peter and Carmen Lucia Buck Foundation Grant Application,001Ox00001aKcFIIA0,Prospecting,2026-12-31,,Grant range: Varying amounts from 70k-1M
+herbblockfoundationdefendingbasicfreedomsgrant_opty,Herb Block Foundation - Defending Basic Freedoms Grant Grant Application,001Ox00001aKcFJIA0,Prospecting,2026-12-31,,Grant range: Up to 25k
+theisabelallendefoundation_opty,The Isabel Allende Foundation Grant Application,001Ox00001aJTCXIA4,Prospecting,2026-12-31,,Grant range: 1k-10k
+thecarrollandmiltonpetriefoundation_opty,The Carroll and Milton Petrie Foundation Grant Application,001Ox00001aKcFKIA0,Prospecting,2026-12-31,,
+dcuforkidsgrants_opty,DCU For Kids Grants Grant Application,001Ox00001aKcFLIA0,Prospecting,2026-12-31,,"Grant range: Instrumentl says $12,500 average grant size"
+reimanfoundationinc_opty,"Reiman Foundation, Inc. Grant Application",001Ox00001aKcFMIA0,Prospecting,2026-12-31,,
+thewallacefoundation_opty,The Wallace Foundation Grant Application,001Ox00001aHKWgIAO,Prospecting,2026-12-31,,Grant range: --
+newyorkfoundation_opty,New York Foundation Grant Application,001Ox00001aKcFNIA0,Prospecting,2026-12-31,,Grant range: In 2024 NYF will have only 1 grant cycle due March 1
+danpaulfoundationgrants_opty,DanPaul Foundation Grants Grant Application,001Ox00001aKcFOIA0,Prospecting,2026-12-31,,
+northstarfund_opty,North Star Fund Grant Application,001Ox00001aKcFPIA0,Prospecting,2026-12-31,,
+mortonkjaneblausteinfoundation_opty,Morton K & Jane Blaustein Foundation Grant Application,001Ox00001aKcFQIA0,Prospecting,2026-12-31,,Grant range: LOI accepted on Rolling Basis                  Have Contact form on website so they can advise about potential submission
+lilahhilliardfisherfoundation_opty,Lilah Hilliard Fisher Foundation Grant Application,001Ox00001aKcFRIA0,Prospecting,2026-12-31,,
+wallaceglobalfund_opty,Wallace Global Fund Grant Application,001Ox00001aKcFSIA0,Prospecting,2026-12-31,,
+bernardandaudrerapoportfoundation_opty,Bernard and Audre Rapoport Foundation Grant Application,001Ox00001aKcFTIA0,Prospecting,2026-12-31,,
+theketteringfamilyfoundation_opty,The Kettering Family Foundation Grant Application,001Ox00001aKcFUIA0,Prospecting,2026-12-31,,
+altmanfoundation_opty,Altman Foundation Grant Application,001Ox00001aKbHlIAK,Prospecting,2026-12-31,,
+lilahhillardfisherfoundation_opty,Lilah Hillard FIsher Foundation Grant Application,001Ox00001ayQ8xIAE,Prospecting,2026-12-31,,
+mgmresortsfoundationcommunitygrantfund_opty,MGM Resorts Foundation Community Grant Fund Grant Application,001Ox00001aKcFWIA0,Prospecting,2026-12-31,,
+mbednazalefoundationgrant_opty,M.B. & Edna Zale Foundation Grant Grant Application,001Ox00001aKcFXIA0,Prospecting,2026-12-31,,
+theislandfoundation_opty,The Island Foundation Grant Application,001Ox00001aKcFYIA0,Prospecting,2026-12-31,,
+theschermanfoundation_opty,The Scherman Foundation Grant Application,001Ox00001aKcFZIA0,Prospecting,2026-12-31,,
+stevenalexandracohenfoundation_opty,Steven & Alexandra Cohen Foundation Grant Application,001Ox00001aJTCYIA4,Prospecting,2026-12-31,,
+theluciusnlittauerfoundation_opty,The Lucius N. Littauer Foundation Grant Application,001Ox00001aKcFaIAK,Prospecting,2026-12-31,,Grant range: Rolling
+jezbbutlerfoundationinc_opty,"J. E. & Z. B. BUTLER FOUNDATION, INC. Grant Application",001Ox00001aKcFbIAK,Prospecting,2026-12-31,,
+meringofffamilyfoundation_opty,Meringoff Family Foundation Grant Application,001Ox00001V7FljIAF,Prospecting,2026-12-31,,
+unitedwayofnyc_opty,United Way of NYC Grant Application,001Ox00001aKcFcIAK,Prospecting,2026-12-31,,
+opensocietyfoundations_opty,Open Society Foundations Grant Application,001Ox00001aKcFdIAK,Prospecting,2026-12-31,,
+ajafoundation_opty,AJA Foundation Grant Application,001Ox00001aKcFeIAK,Prospecting,2026-12-31,,
+cherylsabanselfworthfoundationforwomengirls_opty,Cheryl Saban Self Worth Foundation for Women & Girls Grant Application,001Ox00001aKcFfIAK,Prospecting,2026-12-31,,
+openmeadowfoundation_opty,Open Meadow Foundation Grant Application,001Ox00001aKcFgIAK,Prospecting,2026-12-31,,
+prospecthillfoundation_opty,Prospect Hill Foundation Grant Application,001Ox00001aHKWpIAO,Prospecting,2026-12-31,,
+theleonamandharrybhemsleycharitabletrust_opty,The Leona M and Harry B.  Hemsley Charitable Trust Grant Application,001Ox00001aKcFhIAK,Prospecting,2026-12-31,,
+hispanicheritagefoundation_opty,Hispanic Heritage Foundation Grant Application,001Ox00001aKcFiIAK,Prospecting,2026-12-31,,
+thepershingsquarefoundation_opty,The Pershing Square Foundation Grant Application,001Ox00001aKcFjIAK,Prospecting,2026-12-31,,
+allstatefoundationracialequitygrant_opty,Allstate Foundation Racial Equity Grant Grant Application,001Ox00001aKcFkIAK,Prospecting,2026-12-31,,
+hesedfoundation_opty,Hesed Foundation Grant Application,001Ox00001aKcFlIAK,Prospecting,2026-12-31,,
+americanassociationofuniversitywomen_opty,American Association of University Women Grant Application,001Ox00001aKcFmIAK,Prospecting,2026-12-31,,
+charlesafrueaufffoundationinc_opty,"Charles A. Frueauff Foundation, Inc. Grant Application",001Ox00001aKcFnIAK,Prospecting,2026-12-31,,
+fordhamsreetfoundation_opty,Fordham Sreet Foundation Grant Application,001Ox00001aKcFoIAK,Prospecting,2026-12-31,,
+wkkelloggfoundationnotaffiliatedwiththekelloggcompany_opty,W.K. Kellogg Foundation (not affiliated with the Kellogg company) Grant Application,001Ox00001aKcFpIAK,Prospecting,2026-12-31,,Grant range: Instrumentl shows average grant $65k
+mamacashgranttheresiliencefund_opty,Mama Cash Grant - The Resilience Fund Grant Application,001Ox00001aKcFqIAK,Prospecting,2025-03-17,,"Grant range: €5,000 - €50,000"
+cambiarthrivegrant_opty,Cambiar Thrive Grant Grant Application,001Ox00001aJTCPIA4,Application Submitted,2026-08-31,100000,"Grant range: $100,000"
+billandmelindagatesfoundation_opty,Bill and Melinda Gates Foundation Grant Application,001Ox00001aJTCQIA4,Prospecting,2026-06-11,,
+pershingsquarefoundation_opty,Pershing Square Foundation Grant Application,001Ox00001ayQ8yIAE,Prospecting,2026-12-31,,"Grant range: According to Instrumentl the average is $433,358"
+investorsfoundation_opty,Investors Foundation Grant Application,001Ox00001aJTCSIA4,Prospecting,2026-08-01,,
+patrickjmcgovernfoundation_opty,Patrick J McGovern Foundation Grant Application,001Ox00001aJTCTIA4,Prospecting,2026-12-31,,Grant range: 150k-500k
+theupswingfund_opty,The Upswing Fund Grant Application,001Ox00001aJTCUIA4,Prospecting,2026-12-31,,Grant range: 10k-100k
+bornthiswayfund_opty,Born This Way Fund Grant Application,001Ox00001aJTCVIA4,Prospecting,2026-12-31,,Grant range: up to 150k
+themichaelsusandellfoundation_opty,The Michael & Susan Dell Foundation Grant Application,001Ox00001aJTCWIA4,Prospecting,2026-12-31,,Grant range: 50k +
+theisabelallendefoundation_opty,The Isabel Allende Foundation Grant Application,001Ox00001aJTCXIA4,Prospecting,2026-12-31,,Grant range: --
+stevenalexandracohenfoundation_opty,Steven & Alexandra Cohen Foundation Grant Application,001Ox00001aJTCYIA4,Prospecting,2026-12-31,100,Grant range: 100-200k
+gilmorefoundationgrantsnyccommunities_opty,Gilmore Foundation Grants - NYC Communities Grant Application,001Ox00001aJTCZIA4,Prospecting,2026-12-31,,
+collectivefuturefund_opty,Collective Future Fund Grant Application,001Ox00001aJTCaIAO,Prospecting,2026-12-31,,
+monafoundation_opty,Mona Foundation Grant Application,001Ox00001aJTCbIAO,Prospecting,2026-12-31,,Grant range: $50k
+globalfundforwomen_opty,Global Fund for Women Grant Application,001Ox00001aKbHdIAK,Prospecting,2026-12-31,,Grant range: --
+globalfundforchildren_opty,Global Fund for Children Grant Application,001Ox00001aJTCcIAO,Prospecting,2026-12-31,,
+comofoundationgrants_opty,COMO Foundation Grants Grant Application,001Ox00001aJTCdIAO,Prospecting,2026-12-31,,
+canonusadonations_opty,Canon U.S.A Donations Grant Application,001Ox00001aJTCeIAO,Prospecting,2026-12-31,,
+hearstfoundation_opty,Hearst Foundation Grant Application,001Ox00001aJTCfIAO,Prospecting,2026-12-31,,
+feministmajorityfoundation_opty,Feminist Majority Foundation Grant Application,001Ox00001aJTCgIAO,Prospecting,2026-12-31,,Grant range: na
+thetonyrobbinsfoundations_opty,The Tony Robbins Foundations Grant Application,001Ox00001aKI3ZIAW,Prospecting,2026-12-31,,"Grant range: Median grant amount $50,000 (Instrumentl)"
+thetidesfoundation_opty,The Tides Foundation Grant Application,001Ox00001aJTChIAO,Prospecting,2026-12-31,,Grant range: 100k-500k
+boacharitablefoundation_opty,BOA Charitable Foundation Grant Application,001Ox00001aJTCiIAO,Prospecting,2026-06-30,75000,"Grant range: $75,000"
+aerierealfoundation_opty,Aerie Real Foundation Grant Application,001Ox00001aJTCjIAO,Prospecting,2026-06-27,10000,"Grant range: $10,000"
+citifoundationgrant_opty,Citi Foundation Grant Grant Application,001Ox00001aJTCkIAO,Prospecting,2026-12-31,,Grant range: Unknown
+thefordfoundationgoodneighborcommittee_opty,The Ford Foundation Good Neighbor Committee Grant Application,001Ox00001aJTClIAO,Prospecting,2026-09-30,30000,"Grant range: $30,000-$100,000"
+charlesstewartmottfoundation_opty,Charles Stewart Mott Foundation Grant Application,001Ox00001aJTCmIAO,LOI Submitted,2026-12-31,,Grant range: Grants range from low thousands to millions - how can we determine how much to request?  - Request 25k
+solonesummerfieldfoundation_opty,Solon E Summerfield Foundation Grant Application,001Ox00001aHKWeIAO,Prospecting,2026-12-31,,Grant range: Instumentl shares the average to be 129k
+wkkelloggfoundation_opty,W.K. Kellogg Foundation Grant Application,001Ox00001aJTCnIAO,LOI Submitted,2026-12-31,50000,"Grant range: $50,000 - $500,000"
+aauwcommunityactiongrant_opty,AAUW Community Action Grant Grant Application,001Ox00001aJTCoIAO,Prospecting,2026-10-31,2000,"Grant range: $2,000-$10,000"
+thedavidprize_opty,The David Prize Grant Application,001Ox00001aJTCpIAO,Prospecting,2026-12-31,,"Grant range: $200,000 (typical award)"
+brooklyncommunityfoundationgeneralfunding_opty,Brooklyn Community Foundation - General Funding Grant Application,001Ox00001aJTCqIAO,Prospecting,2026-09-30,,"Grant range: $45,000 for three years"
+thelawrencefoundation_opty,The Lawrence Foundation Grant Application,001Ox00001ayQ8zIAE,Prospecting,2026-10-31,5000,"Grant range: $5,000-$10,000"
+impact100_opty,Impact 100 Grant Application,001Ox00001aJTCsIAO,Prospecting,2026-10-29,100000,"Grant range: $100,000"
+charleshaydenfoundation_opty,Charles Hayden Foundation Grant Application,001Ox00001aKbHnIAK,Prospecting,2026-12-31,,
+footlockerfoundation_opty,Foot Locker Foundation Grant Application,001Ox00001V7FlJIAV,Prospecting,2026-12-31,25000,"Grant range: $25,000-$100,000"
+kars4kids_opty,Kars4Kids Grant Application,001Ox00001aDMPBIA4,Application Submitted,2026-12-31,,"Grant range: $500 to $2,000"
+robinhoodfoundation_opty,Robin Hood Foundation Grant Application,001Ox00001aDMPAIA4,Application Submitted,2026-12-31,100000,"Grant range: $100,000 - $1,600,000"
+tigerfoundation_opty,Tiger Foundation Grant Application,001Ox00001aDMP9IAO,Application Submitted,2026-12-31,50000,"Grant range: $50,000 - $300,000 (Average $200,000)"
+firsthorizonfoundation_opty,First Horizon Foundation Grant Application,001Ox00001aDMPCIA4,Prospecting,2026-12-31,,"Grant range: $5,000 to $25,000"
+ichigofoundation_opty,Ichigo Foundation Grant Application,001Ox00001aDMPDIA4,Prospecting,2026-12-31,25000,"Grant range: $25,000-$250,000"
+theawesomefoundation_opty,The Awesome Foundation Grant Application,001Ox00001aKbHVIA0,Prospecting,2026-12-31,1000,"Grant range: $1,000"
+foresthillsstadiumcommunityfund_opty,Forest Hills Stadium Community Fund Grant Application,001Ox00001aDMPGIA4,Prospecting,2026-12-31,,"Grant range: Tier 1: up to $5000
+Tier 2: $5000 - $10,000
+Tier 3: $10,000 - $15,000"
+markwahlbergyouthfoundation_opty,Mark Wahlberg Youth Foundation Grant Application,001Ox00001aKbHWIA0,Prospecting,2026-12-31,,Grant range: $50k
+thetonyrobbinsfoundations_opty,The Tony Robbins Foundations Grant Application,001Ox00001aKI3ZIAW,Prospecting,2026-12-31,,"Grant range: Median grant amount $50,000 (Instrumentl)"
+tdcharitablefoundation_opty,TD Charitable Foundation Grant Application,001Ox00001aKbHXIA0,Prospecting,2026-12-31,25000,"Grant range: $25,000-100,000"
+venablefoundation_opty,Venable Foundation Grant Application,001Ox00001aKbHYIA0,Prospecting,2026-12-31,1000,"Grant range: $1,000-$10,000"
+carmelhillfund_opty,Carmel Hill Fund Grant Application,001Ox00001aHKWsIAO,Prospecting,2026-12-31,25000,"Grant range: $25,000 - $250,000"
+theclevelandhdodgefoundation_opty,The Cleveland H. Dodge Foundation Grant Application,001Ox00001aKbHZIA0,Prospecting,2026-12-31,10000,"Grant range: $10,000"
+moodyfoundation_opty,Moody Foundation Grant Application,001Ox00001ayQ90IAE,Prospecting,2026-12-31,,"Grant range: Up to $300,000"
+mckeenfund_opty,Mckeen Fund Grant Application,001Ox00001aKbHbIAK,Prospecting,2026-12-31,1000,"Grant range: $1,000 - $25,000"
+theteaglefoundation_opty,The Teagle Foundation Grant Application,001Ox00001aKbHcIAK,Prospecting,2026-12-31,100000,"Grant range: $100,000 - $400,000"
+globalfundforwomen_opty,Global Fund for Women Grant Application,001Ox00001aKbHdIAK,Prospecting,2026-12-31,2,Grant range: $2-20k
+halfmydaf_opty,#HalfMyDaf Grant Application,001Ox00001aKbHeIAK,Prospecting,2026-12-31,,Grant range: $2.1M matching pool overall
+bergerfamilyfoundation_opty,Berger Family Foundation Grant Application,001Ox00001aKbHfIAK,Prospecting,2026-12-31,10000,"Grant range: $10,000 - $100,000"
+websterbankcharitablefoundation_opty,Webster Bank Charitable Foundation Grant Application,001Ox00001aKbHgIAK,Prospecting,2026-12-31,,"Grant range: 3,000 up to ~$444,000"
+robertsterlingclarkfoundation_opty,Robert Sterling Clark Foundation Grant Application,001Ox00001aKbHhIAK,Prospecting,2026-12-31,40000,"Grant range: $40,000-$85,000"
+thebobreneeparsonsfoundation_opty,The Bob & Renee Parsons Foundation Grant Application,001Ox00001aKbHiIAK,Prospecting,2026-12-31,,"Grant range: Wide range: ~$10k to $5,000,000+"
+williamflorahewlettfoundation_opty,William & Flora Hewlett Foundation Grant Application,001Ox00001aKbHjIAK,Prospecting,2026-12-31,,Grant range: Varies widely; many multi-year awards.
+newyorkwomensfoundation_opty,New York Women's Foundation Grant Application,001Ox00001aKbHkIAK,Prospecting,2026-12-31,10000,"Grant range: $10,000 - $100,000 (average $50,000)"
+newyorkcommunitytrust_opty,New York Community Trust Grant Application,001Ox00001V7FlNIAV,Prospecting,2026-12-31,,"Grant range: Varies (often $10,000-$200,000+)"
+altmanfoundation_opty,Altman Foundation Grant Application,001Ox00001aKbHlIAK,Prospecting,2026-12-31,50000,"Grant range: $50,000 - $450,000"
+thepinkertonfoundation_opty,The Pinkerton Foundation Grant Application,001Ox00001ayQ91IAE,Prospecting,2026-12-31,25000,"Grant range: $25,000 - $850,000"
+charleshaydenfoundation_opty,Charles Hayden Foundation Grant Application,001Ox00001aKbHnIAK,Prospecting,2026-12-31,,"Grant range: $16,700,000 (based on 2022 tax data)"
+mertzgilmorefoundation_opty,Mertz Gilmore Foundation Grant Application,001Ox00001aKbHoIAK,Prospecting,2026-12-31,1000,"Grant range: $1,000 - $500,000"
+bronxcommunityfoundation_opty,Bronx Community Foundation Grant Application,001Ox00001aKbHpIAK,Prospecting,2026-12-31,,"Grant range: Average - $10,000"
+theeisnerfoundation_opty,The Eisner Foundation Grant Application,001Ox00001aKbHqIAK,Prospecting,2026-12-31,100000,"Grant range: $100,000 - $300,000"
+thestavrosniarchosfoundationnyc_opty,The Stavros Niarchos Foundation (NYC) Grant Application,001Ox00001aKbHrIAK,Prospecting,2026-12-31,200000,"Grant range: $200,000 - $500,000"
+kresgefoundationnycoffice_opty,Kresge Foundation (NYC office) Grant Application,001Ox00001aKbHsIAK,Prospecting,2026-12-31,5000,"Grant range: $5,000 - $5,000,000+ (most grants $100,000 - $350,000)"
+citizensphilanthropicfoundation_opty,Citizens Philanthropic Foundation Grant Application,001Ox00001aKbHtIAK,Prospecting,2026-12-31,,"Grant range: up to $500,000"
+henryenilesfoundation_opty,Henry E. Niles Foundation Grant Application,001Ox00001aKbHuIAK,Prospecting,2026-12-31,2500,"Grant range: $2,500 - $50,000"
+hydeandwatsonfoundation_opty,Hyde and Watson Foundation Grant Application,001Ox00001V7FkxIAF,Prospecting,2026-12-31,5000,"Grant range: $5,000 - $20,000."
+standtogetherfoundation_opty,Stand Together Foundation Grant Application,001Ox00001aKbHvIAK,Prospecting,2026-12-31,,"Grant range: up to $200,000"

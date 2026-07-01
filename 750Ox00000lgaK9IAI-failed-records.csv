@@ -1,0 +1,3 @@
+"sf__Id","sf__Error",Opportunity_External_ID__c,Name,StageName,CloseDate,Amount,AccountId
+"","DUPLICATE_VALUE:Duplicate external id specified: indiv_walterlunadeleontmobilecom_donation_2022:Opportunity_External_ID__c --","indiv_walterlunadeleontmobilecom_donation_2022","Walter Luna de Leon Donation 2022","Closed Won","2022-12-31","45.0","001Ox00001ajKYYIA2"
+"","DUPLICATE_VALUE:Duplicate external id specified: indiv_walterlunadeleontmobilecom_donation_2022:Opportunity_External_ID__c --","indiv_walterlunadeleontmobilecom_donation_2022","Walter Luna de Leon Donation 2022","Closed Won","2022-12-31","50.0","001Ox00001ajKYYIA2"

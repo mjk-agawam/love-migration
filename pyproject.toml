@@ -1,0 +1,11 @@
+[project]
+name = "love-migration"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "google-auth>=2.53.0",
+    "google-auth-oauthlib>=1.4.0",
+    "gspread>=6.2.1",
+    "simple-salesforce>=1.12.9",
+]
