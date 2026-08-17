@@ -29,7 +29,7 @@ import unicodedata
 import urllib.parse
 import urllib.request
 
-PROJ   = '/Users/mikeknight/Projects/love-migration'
+PROJ   = '/workspace/Atlas/love-migration'
 
 RT_HOUSEHOLD    = '012f2000000ww91AAA'
 RT_ORGANIZATION = '012f2000000ww92AAA'
@@ -624,6 +624,18 @@ def build_p2_org_accounts(rows, existing_ids):
                     ext_id = eid
                     break
         rel = str(row.get('Relationship', '')).strip() or 'Prospect'
+        # Derive Type from Source_Sheet__c prefix
+        source_sheet = str(row.get('Source_Sheet__c', '')).strip()
+        if source_sheet.startswith('Corporate'):
+            acct_type = 'Corporate'
+        elif source_sheet.startswith('Foundation'):
+            acct_type = 'Foundation'
+        elif source_sheet.startswith('Government'):
+            acct_type = 'Government'
+        elif source_sheet.startswith('ERG'):
+            acct_type = 'Employee Resource Group'
+        else:
+            acct_type = ''
         out.append({
             'Account_External_ID__c': ext_id,
             'Name': name,
@@ -640,6 +652,7 @@ def build_p2_org_accounts(rows, existing_ids):
             'Internal_Notes__c':             truncate(row.get('Internal_Notes__c', ''), 32000),
             'Research_Links__c':             truncate(row.get('Research_Links__c', ''), 255),
             'Relationship__c':               rel,
+            'Type':                          acct_type,
         })
     return out
 
@@ -740,7 +753,7 @@ def main():
 
     # Load source data
     acct_src = read_csv(f'{PROJ}/source_ready_for_accounts.csv')
-    cont_src = read_csv(f'{PROJ}/source_ready_for_contacts.csv')
+    cont_src = read_csv(f'{PROJ}/Source_ready_for_contacts.csv')
 
     # ── Step 1: Org Accounts ──────────────────────────────────────────────────
     if run(1):
@@ -836,7 +849,23 @@ def main():
         else:
             p2_rows = []
             for f in p2_files:
-                p2_rows.extend(read_csv(f))
+                rows_from_file = read_csv(f)
+                # Tag each row with source filename for Type fallback
+                import os
+                fname = os.path.basename(f)
+                for r in rows_from_file:
+                    if not (r.get('Source_Sheet__c') or '').strip():
+                        # Derive Source_Sheet__c from filename
+                        # e.g. source_p2_foundation_grantors.csv → Foundation
+                        if '_corporate_' in fname:
+                            r['Source_Sheet__c'] = 'Corporate (from filename)'
+                        elif '_foundation_' in fname:
+                            r['Source_Sheet__c'] = 'Foundation (from filename)'
+                        elif '_government_' in fname:
+                            r['Source_Sheet__c'] = 'Government (from filename)'
+                        elif '_erg_' in fname:
+                            r['Source_Sheet__c'] = 'ERG (from filename)'
+                p2_rows.extend(rows_from_file)
 
             if not args.dry_run:
                 print('\n  Loading existing SF account IDs for dedup check...')

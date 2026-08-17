@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>false</sorted>
+    <standardValue>
+        <fullName>Corporate</fullName>
+        <default>false</default>
+        <label>Corporate</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Foundation</fullName>
+        <default>false</default>
+        <label>Foundation</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Government</fullName>
+        <default>false</default>
+        <label>Government</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Nonprofit</fullName>
+        <default>false</default>
+        <label>Nonprofit</label>
+    </standardValue>
+    <standardValue>
+        <fullName>High School</fullName>
+        <default>false</default>
+        <label>High School</label>
+    </standardValue>
+    <standardValue>
+        <fullName>College</fullName>
+        <default>false</default>
+        <label>College</label>
+    </standardValue>
+    <standardValue>
+        <fullName>University</fullName>
+        <default>false</default>
+        <label>University</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Trade/Technical School</fullName>
+        <default>false</default>
+        <label>Trade/Technical School</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Household</fullName>
+        <default>false</default>
+        <label>Household</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Religious Organization</fullName>
+        <default>false</default>
+        <label>Religious Organization</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Press</fullName>
+        <default>false</default>
+        <label>Press</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Other</fullName>
+        <default>false</default>
+        <label>Other</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Mentors</fullName>
+        <default>false</default>
+        <label>Mentors</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Employee Resource Group</fullName>
+        <default>false</default>
+        <label>Employee Resource Group</label>
+    </standardValue>
+</StandardValueSet>
