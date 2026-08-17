@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Relationship__c</fullName>
+    <externalId>false</externalId>
+    <label>Relationship</label>
+    <required>true</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Funder</fullName>
+                <default>false</default>
+                <label>Funder</label>
+            </value>
+            <value>
+                <fullName>Corporate Partner</fullName>
+                <default>false</default>
+                <label>Corporate Partner</label>
+            </value>
+            <value>
+                <fullName>Pending Funder</fullName>
+                <default>false</default>
+                <label>Pending Funder</label>
+            </value>
+            <value>
+                <fullName>Long Time Partner</fullName>
+                <default>false</default>
+                <label>Long Time Partner</label>
+            </value>
+            <value>
+                <fullName>Connected w/Assoc Org</fullName>
+                <default>false</default>
+                <label>Connected w/Assoc Org</label>
+            </value>
+            <value>
+                <fullName>Declined Funding</fullName>
+                <default>false</default>
+                <label>Declined Funding</label>
+            </value>
+            <value>
+                <fullName>Past Funder</fullName>
+                <default>false</default>
+                <label>Past Funder</label>
+            </value>
+            <value>
+                <fullName>No Contact</fullName>
+                <default>false</default>
+                <label>No Contact</label>
+            </value>
+            <value>
+                <fullName>In Contact</fullName>
+                <default>false</default>
+                <label>In Contact</label>
+            </value>
+            <value>
+                <fullName>Some Contact</fullName>
+                <default>false</default>
+                <label>Some Contact</label>
+            </value>
+            <value>
+                <fullName>Prospect</fullName>
+                <default>false</default>
+                <label>Prospect</label>
+            </value>
+            <value>
+                <fullName>Not Aligned</fullName>
+                <default>false</default>
+                <label>Not Aligned</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

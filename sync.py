@@ -610,6 +610,7 @@ def build_p2_ext_id(name, existing_ids):
 
 def build_p2_org_accounts(rows, existing_ids):
     out = []
+    seen_ext = {}  # ext_id → record dict, for deduplication within batch
     for row in rows:
         name = str(row.get('Name', '')).strip()
         if not name:
@@ -623,7 +624,15 @@ def build_p2_org_accounts(rows, existing_ids):
                 if slugify(eid) == slugify(ext_id):
                     ext_id = eid
                     break
-        rel = str(row.get('Relationship', '')).strip() or 'Prospect'
+        # Map Relationship to valid picklist values
+        raw_rel = row.get('Relationship')
+        rel = str(raw_rel).strip() if raw_rel is not None else ''
+        rel = rel or 'Prospect'
+        RELATIONSHIP_MAP = {
+            'Corporate': 'Corporate Partner',
+            'Foundation': 'Funder',
+        }
+        rel = RELATIONSHIP_MAP.get(rel, rel)
         # Derive Type from Source_Sheet__c prefix
         source_sheet = str(row.get('Source_Sheet__c', '')).strip()
         if source_sheet.startswith('Corporate'):
@@ -636,7 +645,7 @@ def build_p2_org_accounts(rows, existing_ids):
             acct_type = 'Employee Resource Group'
         else:
             acct_type = ''
-        out.append({
+        record = {
             'Account_External_ID__c': ext_id,
             'Name': name,
             'RecordTypeId': RT_ORGANIZATION,
@@ -653,7 +662,16 @@ def build_p2_org_accounts(rows, existing_ids):
             'Research_Links__c':             truncate(row.get('Research_Links__c', ''), 255),
             'Relationship__c':               rel,
             'Type':                          acct_type,
-        })
+        }
+        # Deduplicate: merge into existing record if same ext_id already seen
+        if ext_id in seen_ext:
+            existing = seen_ext[ext_id]
+            for k, v in record.items():
+                if v and not existing.get(k):
+                    existing[k] = v
+        else:
+            seen_ext[ext_id] = record
+            out.append(record)
     return out
 
 
