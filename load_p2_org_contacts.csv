@@ -1,204 +1,473 @@
-Contact_External_ID__c,AccountId,FirstName,LastName,Title,Email
-thecitifoundation_c1,001Ox00001aKW08IAG,Kenya,Bryant,Kenya Bryant,kenya.bryant@citi.com
-citifoundation_c1,,Kenya,Bryant,Kenya Bryant,kenya.bryant@citigroup.com
-wellsfargofoundation_c1,001Ox00001aKW09IAG,Catherine,Domenech,Catherine Domenech,catherine.domenech@wellsfargo.com
-resortworld_c1,001Ox00001aKW0AIAW,Michelle,Stoddart,Michelle Stoddart,michelle.stoddart@rwnewyork.com
-citifoundation_c1_2,,Kenya,Bryant,Kenya Bryant,kenya.bryant@citi.com
-disneygrant_c1,,Amanda,Porter,Amanda Porter,amanda.m.porter@abc.com
-target_c1,001Ox00001aKHyrIAG,Shannon,Renfro,Shannon Renfro,partners@inpact.com
-magnoliabakeryinkind_c1,001Ox00001aKHysIAG,Ariana,Joharjian,Ariana Joharjian,ariana@magnoliabakery.com
-popularbank_c1,001Ox00001aKHyvIAG,Valerie,Camejo,Valerie Camejo,vcamejo@popular.com
-disneygrant_c1_2,,Amanda,Porter,Amanda Porter,amanda.m.porter@abc.com
-cushmanwakefieldcharitablefoundation_c1,001Ox00001aKdMYIA0,Contact 1First Contact,1Last,Jeremy Edmiston,jeremy.edmiston@cushwake.com
-deloittefoundation_c1,001Ox00001aKdMZIA0,Erin,Scanlon,Erin Scanlon,escanlon@deloitte.com
-macys_c1,001Ox00001aKdMaIAK,Michelle,Hall,Michelle Hall,
-statestreet_c1,001Ox00001aKcqHIAS,Omaira,Alicea,Omaira Alicea,oalicea@statestreet.com
-fondationchanel_c1,001Ox00001aKcqIIAS,Adeline,Azrack,Adeline Azrack,adeline.azrack@chanelusa.com
-tjmaxx_c1,001Ox00001aKcqKIAS,"Breanna Zimmer
-Meredith",Wentz,"Breanna Zimmer
-Meredith Wentz",brenna_zimmer@tjx.com
-capitalonefoundation_c1,001Ox00001aKcqLIAS,David,Hanzel,David Hanzel,david.hanzel@capitalone.com
-estelauder_c1,001Ox00001aKcqMIAS,Andrea,Flynn,Andrea Flynn,aflynn@estee.com
-nationalgrid_c1,001Ox00001V7FlUIAV,Robert,Simmons,Robert Simmons,robert.simmons@nationalgrid.com
-pepsicofoundation_c1,001Ox00001aKcqPIAS,Charlene,Denizard,Charlene Denizard,
-jetblue_c1,,"Luilly Andrade
-Marisleydi",Aramboles,"Luilly Andrade
-Marisleydi Aramboles",luilly.andrade@jetblue.com
-mastercard_c1,,Leslie,Meek,Leslie Meek,
-verizonfoundationpotentialsbutwedoneedverizonrowunderpartners_c1,001Ox00001aKcqRIAS,Jennifer,Young,Jennifer Young,jennifer.p.young@verizon.com
-alo_c1,001Ox00001aKcqSIAS,Jessy,Sanchez,Jessy Sanchez,jessy.sanchez@aloyoga.com
-unionbank_c1,001Ox00001aKcqUIAS,Yuka,Hashimoto,Yuka Hashimoto,
-thestandard_c1,001Ox00001aKUWAIA4,Donation Request,Form,Donation Request Form,
-thejmsmuckercompany_c1,001Ox00001aKcqVIAS,J.M Smucker Giving. J.M Smucker,DEI,J.M Smucker Giving. J.M Smucker DEI,
-dishnetwork_c1,001Ox00001aKcqWIAS,Dish DEI Dish Cares,Foundation,Dish DEI Dish Cares Foundation,
-feldentertainment_c1,001Ox00001aKcqXIAS,Donation Request,Form,Donation Request Form,
-ramirezassetmanagement_c1,001Ox00001aKcqYIAS,Sam Ramirez:,Sam.jr@ramirezam.com,Sam Ramirez: Sam.jr@ramirezam.com,
-buzzfeed_c1,001Ox00001aKcqZIAS,Chandler,Bondan,Chandler Bondan,
-charlesschwab_c1,001Ox00001aKcqaIAC,Schwab Direct,Grants,Schwab Direct Grants,
-paypalinc_c1,001Ox00001aKcqbIAC,Join Paypal Giving,Fund,Join Paypal Giving Fund,
-aerie_c1,001Ox00001aKcqcIAC,Aerie Foundation AEO,DEI,Aerie Foundation AEO DEI,
-cosmopolitanoflasvegas_c1,001Ox00001aKcqdIAC,Donation Request,Form,Donation Request Form,
-generalmotors_c1,001Ox00001aKcqeIAC,GM Apply for,funding,GM Apply for funding,
-joann_c1,001Ox00001aKcqfIAC,Minority Creative,Grants,Minority Creative Grants,
-thecumminsfoundation_c1,001Ox00001aKcqgIAC,Foundation,Contact,Foundation,
-mihuzo_c1,001Ox00001aKcqhIAC,Mizuho DEI Mizuho USA,Foundation,Mizuho DEI Mizuho USA Foundation,
-ups_c1,001Ox00001aKcqiIAC,The UPS,Foundation,The UPS Foundation,
-jetblue_c1_2,,"Luilly Andrade
-Marisleydi",Aramboles,"Luilly Andrade
-Marisleydi Aramboles",luilly.andrade@jetblue.com
-mazdafoundation_c1,001Ox00001V7FlWIAV,Mike,Zagami,Mike Zagami,mzagami@mazdausa.com
-coachfoundation_c1,001Ox00001V7FlqIAF,Brittany,Gray,Brittany Gray,coachfoundation@coach.com
-newyorkcommunitybankfoundationgrants_c1,001Ox00001aKcquIAC,Marian,Conway,Marian Conway,mconway@nycbfoundation.org
-morganstanley_c1,001Ox00001aKcqwIAC,Lily,Yi,Lily Yi,lily.yi@kkr.com
-brooklynnets_c1,001Ox00001aKcqsIAC,Kayelyn,Dyson,Kayelyn Dyson,kdyson@bseglobal.net
-geico_c1,001Ox00001aKcqOIAS,Cheryl,Ibanez,Cheryl Ibanez,cibanez@geico.com
-hispanicfederation2026upliftnewyorkstate_c1,001Ox00001V7FlMIAV,Gonzalo,Loayza,,gloayza@hispanicfederation.org
-unidosus–pionerasenstem_c1,,—,Contact,—,
-unidosus–escaleras_c1,,—,Contact,—,
-williamtgrantfoundationyouthserviceimprovementgrant_c1,001Ox00001aDMOzIAO,Nancy,Rivera-Torres,Grants Administrator,nrivera@wtgrantfdn.org
-lawrencefoundation_c1,001Ox00001aDMP5IAO,Lori,Mitchell,Executive Director,lori@thelawrencefoundation.org
-theslomo&cindysiivianfoundation_c3,001Ox00001aDMP7IAO,Grossman,Grossman,,
-newprofit_c1,001Ox00001aDMP8IAO,Danielle,May,Director of Planning,danielle_may@newprofit.org
-arborrising_c1,001Ox00001aDMPEIA4,Domique,Contact,Senior Associate,dominique@arborrising.org
-hispanicfederation2026upliftnewyorkstate_c1_2,001Ox00001V7FlMIAV,Gonzalo,Loayza,,gloayza@hispanicfederation.org
-viapathfoundation_c1,001Ox00001aDMOtIAO,Lisa,Garcias,Director,info@viapath-foundation.org
-williamtgrantfoundationyouthserviceimprovementgrant_c1_2,001Ox00001aDMOzIAO,Nancy,Rivera-Torres,Grants Administrator,nrivera@wtgrantfdn.org
-lawrencefoundation_c1_2,001Ox00001aDMP5IAO,Lori,Mitchell,Executive Director,lori@thelawrencefoundation.org
-theslomo&cindysiivianfoundation_c1,001Ox00001aDMP7IAO,Daniel,Komansky,President and Chairman of the Board of Directors,dkomansky@silvianfoundation.org
-theslomo&cindysiivianfoundation_c2,001Ox00001aDMP7IAO,David,Grossman,Treasurer and Board Member,
-newprofit_c1_2,001Ox00001aDMP8IAO,Danielle,May,Director of Planning,danielle_may@newprofit.org
-sillsfamilyfoundation_c1,001Ox00001b5sF7IAI,Run enitrely by board of family members who have little to no public,presence,N/A,info@sillsfamilyfoundation.org
-firsthorizonfoundation_c1,001Ox00001aDMPCIA4,Abbey,Lane,,abbey.lane@firsthorizon.com
-ichigofoundation_c1,001Ox00001aDMPDIA4,Janel,Callon,President,janel.callon@ichigofoundation.org
-arborrising_c1_2,001Ox00001aDMPEIA4,Domique,Domique,Senior Associate,dominique@arborrising.org
-None_c1,,Michelle,Stoddart,Community Development Leader,michelle.stoddart@rwnewyork.com
-None_c1_2,,Alexa,Arrechi,Vice President,alexa@lemmastrategies.com
-None_c1_3,,ALMIRCA,SANTIAGO,,asantiago@hispanicfederation.org
-m&tcharitablefund_c1,001Ox00001V7FlEIAV,Ade,Escayg,,aescayg@mtb.com
-sillsfamilyfoundation_c1_2,001Ox00001b5sF7IAI,Run enitrely by board of family members who have little to no public,presence,N/A,info@sillsfamilyfoundation.org
-mazdafoundation_c1_2,001Ox00001V7FlWIAV,Tamara,Mlynarczyk,Manager,tmlynarc@mazdausa.com
-zegarfamilyfoundation_c1,001Ox00001V7FlXIAV,Lan,Pham,Chief Operating Officer,lan@zegarff.org
-thestarrfoundation_c1,001Ox00001V7FlZIAV,Courtney,O'Malley,President,courtney.omalley@starrfoundation.org
-americanexpresscommunitygiving_c1,001Ox00001V7FlaIAF,Madge,Thomas,President of the American Express Foundation,madge.thomas@aexp.com
-thecricketislandfoundation_c1,001Ox00001V7FldIAF,T.,Bakare,Grantee Resource Partner,t@cricketisland.org
-voyafinancialfoundation_c1,001Ox00001V7FleIAF,Brannigan,Thompson,Chief People Officer,brannigan.thompson@voya.com
-firstniagara_c1,001Ox00001V7FliIAF,Elizabeth,Gurney,Executive Director,
-charlesr&winifredrweberfoundation_c1,001Ox00001V7FllIAF,Daniel,McSwiggan,Vice President,mcswiggan@clm.com
-carol&geneludwigfamilyfoundation_c1,001Ox00001V7FloIAF,Meghan,Behnke,Education Program Officer,meghan.behnke@gmail.com
-ainsliefoundation_c1,001Ox00001V7FlpIAF,Alex,Rafal,Secretary,alex.rafal@maverickcap.com
-thejpbfoundationnowfreedomtogetherfoundation_c1,001Ox00001aHKWdIAO,Julio,Bautista,Senior Grants and Systems Officer,jbautista@freedomtogether.org
-solonesummerfieldfoundation_c1,001Ox00001aHKWeIAO,Vanessa,Rivera,Grants and Operations Associate Director,vanessa@intentionalphilanthropy.com
-williamrkenanjrcharitabletrustnyc_c1,001Ox00001aHKWfIAO,Robby,Russell,Grant Officer,rrussell@kenancharitabletrust.org
-thewallacefoundation_c1,001Ox00001aHKWgIAO,Deanna,Chernovetsky,Grants Associate,dchernovetsky@wallacefoundation.org
-thebezosfamilyfoundation_c1,001Ox00001aHKWhIAO,Megan,Wyatt,Managing Director,megan@bezosfamilyfoundation.org
-thehelmsleycharitabletrustnyc_c1,001Ox00001aHKWiIAO,Tracy,Perrizo,Program Officer,tperrizo@helmsleytrust.org
-communitasamericamicrogrant_c1,001Ox00001aKcFBIA0,Edward,Greenwood,Edward Greenwood,egreenwood@communitasamerica.org
-patricjmcgovernfoundation_c1,001Ox00001ayQ8wIAE,Nikita,Japra,Nikita Japra,datapractice@mcgovern.org
-themoriahfund_c1,001Ox00001aKcFDIA0,Alice Johnson,Cain,Alice Johnson Cain,acain@moriahfund.org
-thetowfoundation_c1,001Ox00001aKcFEIA0,Angela,Leis,Angela Leis,info@towfoundation.org
-macarthurfoundation_c1,001Ox00001aKcFFIA0,Gabriela,Suarez,Gabriela Suarez,gsuarez@macfound.org
-theharnischfoundation_c1,001Ox00001aKcFGIA0,Jenny,Raymond,Jenny Raymond,jenny@thehf.org
-roberttonybadercharitablefoundation_c1,001Ox00001aKcFHIA0,Jamie Carmody (according to,zoominfo),Jamie Carmody (according to zoominfo),grants@rtbaderfoundation.org
-thepeterandcarmenluciabuckfoundation_c1,001Ox00001aKcFIIA0,Angela,Andrade,Angela Andrade,juliew@pclbfoundation.org
-herbblockfoundationdefendingbasicfreedomsgrant_c1,001Ox00001aKcFJIA0,Marcela,Brané,Marcela Brané,mbrane@herbblock.org
-theisabelallendefoundation_c1,001Ox00001aJTCXIA4,Lori,Barra,Lori Barra,lori@isabelallende.org
-thecarrollandmiltonpetriefoundation_c1,001Ox00001aKcFKIA0,Desiree,Vazquez,Desiree Vazquez,desiree.vazquez@gmail.com
-dcuforkidsgrants_c1,001Ox00001aKcFLIA0,David,Araujo,David Araujo,
-reimanfoundationinc_c1,001Ox00001aKcFMIA0,Scott,Reiman,Scott Reiman,reimanfoundation@hexagoninc.com
-thewallacefoundation_c1_2,001Ox00001aHKWgIAO,Gigi,Antoni,Gigi Antoni,grantrequest@wallacefoundation.org
-newyorkfoundation_c1,001Ox00001aKcFNIA0,Rickke,Mananzala,Rickke Mananzala,requests@nyf.org
-danpaulfoundationgrants_c1,001Ox00001aKcFOIA0,Libby,Cornett,Libby Cornett,danpaulfoundation@gmail.com
-northstarfund_c1,001Ox00001aKcFPIA0,Jennifer,Ching,Jennifer Ching,jenniferching@northstarfund.org
-mortonkjaneblausteinfoundation_c1,001Ox00001aKcFQIA0,"Betsy F. Ringel
+Contact_External_ID__c,AccountId,FirstName,LastName,Title,Email,LinkedIn_URL__c
+thecitifoundation_c1,001Ox00001aKW08IAG,Kenya,Bryant,Kenya Bryant,kenya.bryant@citi.com,
+citifoundation_c1,001Ox00001eYA3pIAG,Kenya,Bryant,Kenya Bryant,kenya.bryant@citigroup.com,
+wellsfargofoundation_c1,001Ox00001aKW09IAG,Catherine,Domenech,Catherine Domenech,catherine.domenech@wellsfargo.com,
+resortworld_c1,001Ox00001aKW0AIAW,Michelle,Stoddart,Michelle Stoddart,michelle.stoddart@rwnewyork.com,
+citifoundation_c1_2,001Ox00001eYA3pIAG,Kenya,Bryant,Kenya Bryant,kenya.bryant@citi.com,
+disneygrant_c1,001Ox00001eYA3sIAG,Amanda,Porter,Amanda Porter,amanda.m.porter@abc.com,
+target_c1,001Ox00001aKHyrIAG,Shannon,Renfro,Shannon Renfro,partners@inpact.com,
+magnoliabakeryinkind_c1,001Ox00001aKHysIAG,Ariana,Joharjian,Ariana Joharjian,ariana@magnoliabakery.com,
+popularbank_c1,001Ox00001aKHyvIAG,Valerie,Camejo,Valerie Camejo,vcamejo@popular.com,
+disneygrant_c1_2,001Ox00001eYA3sIAG,Amanda,Porter,Amanda Porter,amanda.m.porter@abc.com,
+cushmanwakefieldcharitablefoundation_c1,001Ox00001aKdMYIA0,Contact 1First Contact,1Last,Jeremy Edmiston,jeremy.edmiston@cushwake.com,
+deloittefoundation_c1,001Ox00001aKdMZIA0,Erin,Scanlon,Erin Scanlon,escanlon@deloitte.com,
+macys_c1,001Ox00001aKdMaIAK,Michelle,Hall,Michelle Hall,,
+statestreet_c1,001Ox00001aKcqHIAS,Omaira,Alicea,Omaira Alicea,oalicea@statestreet.com,
+fondationchanel_c1,001Ox00001aKcqIIAS,Adeline,Azrack,Adeline Azrack,adeline.azrack@chanelusa.com,
+tjmaxx_c1,001Ox00001aKcqKIAS,Breanna,Zimmer,"Breanna Zimmer
+Meredith Wentz",brenna_zimmer@tjx.com,
+capitalonefoundation_c1,001Ox00001aKcqLIAS,David,Hanzel,David Hanzel,david.hanzel@capitalone.com,
+estelauder_c1,001Ox00001aKcqMIAS,Andrea,Flynn,Andrea Flynn,aflynn@estee.com,
+nationalgrid_c1,001Ox00001V7FlUIAV,Robert,Simmons,Robert Simmons,robert.simmons@nationalgrid.com,
+pepsicofoundation_c1,001Ox00001aKcqPIAS,Charlene,Denizard,Charlene Denizard,,
+jetblue_c1,001Ox00001eYA3tIAG,Luilly,Andrade,"Luilly Andrade
+Marisleydi Aramboles",luilly.andrade@jetblue.com,
+mastercard_c1,001Ox00001eYA3uIAG,Leslie,Meek,Leslie Meek,,
+verizonfoundationpotentialsbutwedoneedverizonrowunderpartners_c1,001Ox00001aKcqRIAS,Jennifer,Young,Jennifer Young,jennifer.p.young@verizon.com,
+alo_c1,001Ox00001aKcqSIAS,Jessy,Sanchez,Jessy Sanchez,jessy.sanchez@aloyoga.com,
+unionbank_c1,001Ox00001aKcqUIAS,Yuka,Hashimoto,Yuka Hashimoto,,
+thestandard_c1,001Ox00001aKUWAIA4,Donation Request,Form,Donation Request Form,,
+thejmsmuckercompany_c1,001Ox00001aKcqVIAS,J.M Smucker Giving. J.M Smucker,DEI,J.M Smucker Giving. J.M Smucker DEI,,
+dishnetwork_c1,001Ox00001aKcqWIAS,Dish DEI Dish Cares,Foundation,Dish DEI Dish Cares Foundation,,
+feldentertainment_c1,001Ox00001aKcqXIAS,Donation Request,Form,Donation Request Form,,
+ramirezassetmanagement_c1,001Ox00001aKcqYIAS,Sam Ramirez:,Sam.jr@ramirezam.com,Sam Ramirez: Sam.jr@ramirezam.com,,
+buzzfeed_c1,001Ox00001aKcqZIAS,Chandler,Bondan,Chandler Bondan,,
+charlesschwab_c1,001Ox00001aKcqaIAC,Schwab Direct,Grants,Schwab Direct Grants,,https://www.linkedin.com/in/caseycortese
+paypalinc_c1,001Ox00001aKcqbIAC,Join Paypal Giving,Fund,Join Paypal Giving Fund,,https://www.linkedin.com/in/alexandramontesa/
+aerie_c1,001Ox00001aKcqcIAC,Aerie Foundation AEO,DEI,Aerie Foundation AEO DEI,,
+cosmopolitanoflasvegas_c1,001Ox00001aKcqdIAC,Donation Request,Form,Donation Request Form,,
+generalmotors_c1,001Ox00001aKcqeIAC,GM Apply for,funding,GM Apply for funding,,https://www.linkedin.com/in/heidi-magyar-6b6ba14
+joann_c1,001Ox00001aKcqfIAC,Minority Creative,Grants,Minority Creative Grants,,https://www.linkedin.com/in/samanthaabooth
+thecumminsfoundation_c1,001Ox00001aKcqgIAC,Foundation,Contact,Foundation,,
+mihuzo_c1,001Ox00001aKcqhIAC,Mizuho DEI Mizuho USA,Foundation,Mizuho DEI Mizuho USA Foundation,,
+ups_c1,001Ox00001aKcqiIAC,The UPS,Foundation,The UPS Foundation,,
+jetblue_c1_2,001Ox00001eYA3tIAG,Luilly,Andrade,"Luilly Andrade
+Marisleydi Aramboles",luilly.andrade@jetblue.com,
+mazdafoundation_c1,001Ox00001V7FlWIAV,Mike,Zagami,Mike Zagami,mzagami@mazdausa.com,
+coachfoundation_c1,001Ox00001V7FlqIAF,Brittany,Gray,Brittany Gray,coachfoundation@coach.com,
+newyorkcommunitybankfoundationgrants_c1,001Ox00001aKcquIAC,Marian,Conway,Marian Conway,mconway@nycbfoundation.org,
+morganstanley_c1,001Ox00001aKcqwIAC,Lily,Yi,Lily Yi,lily.yi@kkr.com,
+brooklynnets_c1,001Ox00001aKcqsIAC,Kayelyn,Dyson,Kayelyn Dyson,kdyson@bseglobal.net,
+geico_c1,001Ox00001aKcqOIAS,Cheryl,Ibanez,Cheryl Ibanez,cibanez@geico.com,
+saks_c1,001Ox00001eajFGIAY,Jessica,Diaz,"Chair of ¡Hola!, Director of Talent Acquisition",jessica.diaz@saks.com,
+esteelauder_c1,001Ox00001eajFHIAY,Gaston,Duhart,"Vice President, Global Finance & Strategy at The Estée Lauder Companies Inc.",gduhart@estee.com,
+esteelauder_c3,001Ox00001eajFHIAY,Andres,Vaca,Global Marketing,avaca@estee.com,
+chanel_c1,001Ox00001eajFIIAY,Raymond,Ampil,"Senior Program Manager, Foundation Chanel",,
+loreal_c1,001Ox00001eajFJIAY,Andrea R.,Speight,Sr. Mgr. Medical & Community Relations | Social Impact/ Advocacy and Outreach,andrea.speight@loreal.com,
+benefitcosmetics_c1,001Ox00001eajFKIAY,Patty,Caballero,Globa DEI specialist at Benefit Cosmetics,patty.caballero@benefitcosmetics.com,
+benefitcosmetics_c3,001Ox00001eajFKIAY,Josie,Colin,Account Manager (leading initiatives to support corporate DEI integration),josie.colin@benefitcosmetics.com,
+elfcosmetics_c1,001Ox00001eajFLIAY,Bo,Busch,Sr. Operations Manager,bbusch@elfbeauty.com,
+johnsonjohnson_c1,001Ox00001eajFMIAY,Rebecca,Falconer,HOLA Communications Lead,rfalconer@jnj.com,
+doveself-esteemproject_c1,001Ox00001eajFNIAY,Rachel,Goldman,"Senior Brand Manager, Dove Limited Editions at Unilever",rachel.goldman@unilever.com,
+raewellness_c1,001Ox00001eajFOIAY,Angie,Tebbe,"Co-Founder and CEO, Rae Wellness",angie@raewellness.co,
+tiktok_c1,001Ox00001eajFQIAY,Felicia,Melvin,Corporate Communications,elicia.melvin@bytedance.com,
+samsung_c1,001Ox00001eajFRIAY,Christopher,Rivera,CS Planning,christopher.r@sea.samsung.com,
+snapchat_c1,001Ox00001eajFSIAY,Rachel,Racusen,Senior Director Of Corporate,tpompey@snapchat.com,
+snapchat_c3,001Ox00001eajFSIAY,Lauren,Velez,Global Brand Experience,andres@snapchat.com,
+hbo_c1,001Ox00001eajFTIAY,Martha,Velasquez,Senior Contact Administrator,martha.velasquez@wbd.com,
+netflix_c1,001Ox00001eajFUIAY,Kyle,Pickett,Global Sales Enablement @ Netflix & DEI Leader,kpickett@netflix.com,
+netflix_c3,001Ox00001eajFUIAY,Caroline,Coyer,Agency Partnerships,ccoyer@netflix.com,
+warnerbros_c1,001Ox00001eajFVIAY,Kennedy,Medina,"1. Program Planning & Content Strategy Director                                      2. Executive Director of Media, Measurement",kennedy.medina@wbd.com,
+warnerbros_c3,001Ox00001eajFVIAY,Nicole,Garcia,,julieta.martinez@wbd.com,
+atlanticrecords_c1,001Ox00001eajFWIAY,Angel,Martinez,VP of Marketing,angel.martinez@atlanticrecords.com,
+buzzfeed_c1_2,001Ox00001aKcqZIAS,"All people on Linkedin with ""Mi Gente"" a",members.,DEI Manager,marquaysa.battle@buzzfeed.com,
+dishnetwork_c1_2,001Ox00001aKcqWIAS,Marie,Nelson,Program Manager II,marie.nelson@dish.com,
+aolcharitablefoundation_c1,001Ox00001eajFXIAY,Alicin Reidy,Williamson,Chief Diversity and Culture Officer at Yahoo,alicinr@yahoo.com,
+elsevier_c1,001Ox00001eajFYIAY,Natalie,Matos,Marketing Communications,foundation@elsevier.com,
+youtube_c1,001Ox00001eajFZIAY,Christine,K,Managing Director and Global Head of of Product Partnerships,,
+youtube_c3,001Ox00001eajFZIAY,Don,Wilson,YouTube Product Partnerships Manager,,
+paramount_c1,001Ox00001eajFaIAI,David,Bittler,"Executive Vice President, Communications",david.bittler@paramount.com,
+paramount_c3,001Ox00001eajFaIAI,Leslie,Shair,Senior Director of Events,leslie.shair@paramount.com,
+jpmorganchase_c1,001Ox00001eajFbIAI,Wendy,Velazquez,Community Maanger,wendy.g.velazquez@chase.com,
+bnymellon_c1,001Ox00001eajFcIAI,Courtney,Davenport,"VP Operations Manager, Strategic Programming People Team",courtney.davenport@bny.com,
+bnymellon_c3,001Ox00001eajFcIAI,Karen,Newball,HLLF member,karen.newball@bny.com,
+ubs_c1,001Ox00001eajFdIAI,Weisner,Perez,"Market Director – Las Vegas, Nevada.                                             Global Wealth Management GTP Analyst (Christoph",weisner.perez@ubs.com,
+bankofamerica_c1,001Ox00001eajFeIAI,Sheri,Bronstein,Chief People Officer at Bank of America,,
+bankofamerica_c1_2,001Ox00001eajFeIAI,Michelle,Cisneros,SVP,michelle.cisneros@bofa.com,
+goldmansachs_c1,001Ox00001eajFfIAI,Emma Aggor                              ,Douglas,DEI Strategy,emma.aggor@gs.com,
+morganstanley_c1_2,001Ox00001aKcqwIAC,LaToya,Wilson,Managing Director,latoya.wilson@morganstanley.com,
+americanexpress_c1,001Ox00001aKcqpIAC,Delfina,Simon,Manager Assistant,delfina.simon@aexp.com,
+mutualofamericafinancialgroup_c1,001Ox00001aKcqlIAC,Simpa,Baiye,CEO and President,simpa.baiye@mutualofamerica.com,
+mutualofamericafinancialgroup_c3,001Ox00001aKcqlIAC,Craig,Cooperman,"VP, Digital Marketing and Social Media",craig.cooperman@mutualofamerica.com,
+tdbank_c1,001Ox00001eajFgIAI,Colleen Hoffman - Committee,Member,Office of Charitable Giving & TD Charitable Foundation Director,suzanne.alexander@td.com,
+creditsuisse_c1,001Ox00001eajFhIAI,Karina,Sulzer,Assistant Director,ksulzer@credit-suisse.com,
+citibank_c1,001Ox00001eajFiIAI,Kenya,Bryant,"Vice President, Program Officer",kenya.bryant@citigroup.com,
+citibank_c3,001Ox00001eajFiIAI,Davida,Heller,"Managing Director, Global Head of HR-Finance",davida.heller@citigroup.com,
+customersbank_c1,001Ox00001aKcqmIAC,Lisa,Walsh,Chief People Officer,lwalsh@customersbank.com,
+deutschebankamericas_c1,001Ox00001aKcqqIAC,Isabelle,Aussourd,Managing Director,isabelle.aussourd@db.com,
+mckinseyco_c1,001Ox00001eajFjIAI,Lucy,Pérez,Senior Partner,lucy_perez@mckinsey.com,
+mckinseyco_c3,001Ox00001eajFjIAI,Matias,Melero,Associate Partner,,
+unionbank_c1_2,001Ox00001aKcqUIAS,Reba,Dominski,"Senior EVP, Chief Corporate Social Responsibility Officer",,https://linkedin.com/in/leenapaxinos
+bloomberg_c1,001Ox00001eajFkIAI,Denia C.,Talavera,Diversity Program Manager,dtalavera@bloomberg.net,
+charlesschwab_c1_2,001Ox00001aKcqaIAC,Alex,Cuellar,Senior Manager at Charles Schwab,myhr@schwab.com,
+barclays_c1,001Ox00001eajFlIAI,Carlos,Salcedo,Memers of Latin and Hispanic Professionals Resource Group,,
+barclays_c3,001Ox00001eajFlIAI,Adriana,Arango,DEI Program Manager,,
+ramirezassetmanagement_c1_2,001Ox00001aKcqYIAS,Sam,Ramirez,President and Chief Executive Officer,sramirez@sifma.org,
+spglobal_c1,001Ox00001eajFmIAI,Annette,O'Hanlon,"Vice President, Corporate Responsibility and Sustainability                                Executive Vice President and Chief Pe",annette.ohanlon@spglobal.com,
+mihuzo_c1_2,001Ox00001aKcqhIAC,Lesley,Palmer,"Managing Director, Community Relations and Corporate Sustainability",lesley.palmer@mizuhogroup.com,
+tdsecurities_c1,001Ox00001eajFnIAI,Amy,West,Managing Director,amy.west@tdsecurities.com,
+merrilllynch_c1,001Ox00001eajFoIAI,Charles,Branch,Senior Vice President,charles_branch@ml.com,
+moodys_c1,001Ox00001eajFpIAI,Jennifer Stula,Rivera,Global Head of Community Impact,elena.ilyin@moodys.com,
+moodys_c3,001Ox00001eajFpIAI,Christina,Holden,"Vice President, Communications",,
+blackrock_c1,001Ox00001eajFqIAI,Arielle,Gurman,Head of Strategy for Social Impact,arielle.gurman@blackrock.com,
+blackrock_c3,001Ox00001eajFqIAI,Lavanya,Ravichandran,"Managing Director, Global Head of Social Impact",lavanya.ravichandran@blackrock.com,
+capitalone_c1,001Ox00001eajFrIAI,Kerone,Vatel,Head of Community Impact and Investment,kerone.vatel@capitalone.com,
+cbizcwacbizwomensadvantage_c1,001Ox00001eajFuIAI,Katy,Daiell,Managing Director,,
+magnoliabakery_c1,001Ox00001eajFvIAI,Consumer Care,Team,,hello@magnoliabakery.com,
+mcdonalds_c1,001Ox00001eajFwIAI,Erika,Bucaro,"Supervisor, Education Programs",erika.bucaro@us.mcd.com,
+wholefoods_c1,001Ox00001eajFxIAI,Kim,Herrington,Director of Programs at Whole Kids,,
+cafebustelo_c1,001Ox00001eajFyIAI,Gail,Hollander,Chief Marketing Officer,gail.hollander@jmsmucker.com,
+goya_c1,001Ox00001eajFzIAI,Contact,Form,Director of HR at Goya Foods,tony.rico@goya.com,
+goya_c3,001Ox00001eajFzIAI,Lissette,Peraza,,,
+yoplait_c1,001Ox00001eajG0IAI,Jano,Cabrera,Chief Communications Officer,jano.cabrera@generalmills.com,
+thejmsmuckercompany_c1_2,001Ox00001aKcqVIAS,Contact,Form,"Project Manager, Human Resources",katie.crumrine@jmsmucker.com,
+foodbazaar_c1,001Ox00001eajG1IAI,Contact,Form,,info@bogopausa.com,
+cocacola_c1,001Ox00001aKcqnIAC,Carlos,Pagoaga,President of Coca-Cola Foundation,cpagoaga@coca-cola.com,
+thewendyscompany_c1,001Ox00001eajG2IAI,Jessica,Hazelwood,Corporate Social Responsibility,jessica.hazelwood@wendys.com,
+taogrouphospitality_c1,001Ox00001eajG4IAI,Gabrielle,Fernando,Vice President,gabrielle.fernando@taogroup.com,
+nationwidemutualinsurancecompany_c1,001Ox00001aKcqTIAS,Grant,guidelines,Invite only,,
+thestandard_c1_2,001Ox00001aKUWAIA4,Bob,Speltz,"Senior Director, Community and Public Relations",bob.speltz@standard.com,
+centenecorporation_c1,001Ox00001eajG7IAI,Angela,Stewart,VP Culture Activation,astewart@centene.com,
+centenecorporation_c3,001Ox00001eajG7IAI,Christi,Lemery,VP Communications,,
+raphlauren_c1,001Ox00001eajG9IAI,Nathaniel,Kelliehan,"Manager, Social Partnerships and Philanthropy - Global People & Development",nathaniel.kelliehan@ralphlauren.com,
+mattel_c1,001Ox00001eajGAIAY,Crystal,Glass,Co-President of Black at Mattel,crystal.miller@mattel.com,
+aerie_c1_2,001Ox00001aKcqcIAC,Stella,Stella,Vice President Stores,grants@ae.com,
+aerie_c3,001Ox00001aKcqcIAC,Lauren,Sce,"Lead, Corporate Social Responsability",vanima@ae.com,
+jcrew_c1,001Ox00001eajGBIAY,Gabriela Gonzales,Carpio,Co-chair of Unidos,silverlee.hernandez@jcrew.com,
+jcrew_c3,001Ox00001eajGBIAY,Erin,Cullen,Co-lead,keisha.golding@jcrew.com,
+nordstrom_c1,001Ox00001aKXXHIA4,Nordstrom,Cares,Marketing Project Manager,giving@nordstrom.com,
+nordstrom_c3,001Ox00001aKXXHIA4,Stephanie,Altunis,,,
+thinx_c1,001Ox00001eajGCIAY,Sari,Martinez,Vice President Strategy,partnerships@thinx.com,
+joann_c1_2,001Ox00001aKcqfIAC,Samantha,Booth,Senior Corporate Communications,sbooth@associatedmaterials.com,
+madewell_c1,001Ox00001eajGDIAY,Adrienne,Lazarus,President,adrienne.lazarus@jcrew.com,
+madewell_c3,001Ox00001eajGDIAY,Amie,Borges,Regional Vice President,amie.borges@jcrew.com,
+freepeople_c1,001Ox00001eajGEIAY,James,Smith,District Brand Leader,jsmith@freepeople.com,
+walmart_c1,001Ox00001eajGFIAY,Farima,Sacko,Diversity Equity and Inclusion,miguel.montanaro@samsclub.com,
+walmart_c3,001Ox00001eajGFIAY,Julie,Gehrki,,susan.koehler@samsclub.com,
+tjmaxx_c1_2,001Ox00001aKcqKIAS,Breanna,Zimmer,"AVP Strategic Operations at The TJX Companies, Inc.",brenna_zimmer@tjx.com,
+tjmaxx_c3,001Ox00001aKcqKIAS,Julia,Jones,Human Resources,,
+harperwilde_c1,001Ox00001eajGGIAY,Candice,Maldonado,"VP, Product Development & Production",candice@harperwilde.com,
+macys_c1_2,001Ox00001aKdMaIAK,Sharon,Otterman,"EVP, Chief Marketing Officer",sharon.otterman@macys.com,
+macys_c3,001Ox00001aKdMaIAK,Nancy,Rothman,Human Resources Director,nancy.rothman@macys.com,
+pncbank_c1,001Ox00001eajGHIAY,Gina,Coleman,Chief Diversity Officer,gina.coleman@pnc.com,
+pncbank_c3,001Ox00001eajGHIAY,Richard,Bynum,EVP and Chief Corporate Responsibility Officer                Client and Community Relations Officer,richard.bynum@pnc.com,
+vsco_c1,001Ox00001eajGIIAY,Katie Emerson                           ,Water,Womens Inclusion IRG Leader                                 Senior Grants Manager                                               ,nfisher@columbusfoundation.org,
+tmobile_c1,001Ox00001eajGLIAY,Jon,Freier,"President, T-Mobile Consumer Group            CEO Communications                              Sr. Strategy Manager              ",jon.freier@t-mobile.com,
+tmobile_c3,001Ox00001eajGLIAY,George,Philbin,,,
+waltdisney_c1,001Ox00001eajGMIAY,Joy,Peña,"Vice President, Inclusive Culture & Experiences",joy.pena@disney.com,
+waltdisney_c3,001Ox00001eajGMIAY,Chloe,Chow,DEI Coordinator,,
+visa_c1,001Ox00001eajGOIAY,Gabriela,Simas,Global Treasury,gsimas@visa.com,
+poncebank_c1,001Ox00001eajGPIAY,Wanda,Matos,Director of Nonprofit Services,wanda.matos@poncebank.net,
+nasdaq_c1,001Ox00001eajGQIAY,Carmen,Mora,Senior Administrative Assistant (Adelante)                                                     Account Manager (Adelante)       ,joshuabencker@gmail.com,
+nasdaq_c3,001Ox00001eajGQIAY,Susannah Haisley                        ,LATAM),,,
+wellsfargo_c1,001Ox00001eajGRIAY,Ruben Barrales                          ,Paley,,ruben.barrales@wellsfargo.com,
+americanexpress_c1_2,001Ox00001aKcqpIAC,Talent Aquisition Partner               ,Finance,,,
+bancopopular_c1,001Ox00001eajGSIAY,The Foundation invests exclusively in pr,Literacy,,,
+ubs_c1_2,001Ox00001eajFdIAI,Weisner,Perez,"Market Director – Las Vegas, Nevada.                                             Global Wealth Management GTP Analyst (Christoph",weisner.perez@ubs.com,
+starbucks_c1,001Ox00001eajGTIAY,Gustavo,Martinez,co-chair for Hora Del Café,gumartin@starbucks.com,
+starbucks_c3,001Ox00001eajGTIAY,Cindy,Pruss,Talent Acquisition Business Partner – Northeast,,
+pepsico_c1,001Ox00001eajGUIAY,Mireya,Iglesias,Senior Marketing Analyst,mireya.iglesias.ayala@gmail.com,
+pepsico_c3,001Ox00001eajGUIAY,Debra,Pogorelsky,Adelante ERG Frito-Lay Co-Chair,,
+libertycoca-cola_c1,001Ox00001eajGVIAY,Philanthropic organization focusing on e,scholars.,,,
+marriotinternational_c1,001Ox00001eajGWIAY,Main Contact: Diana Plazas              ,Castner,"Senior Vice President & Global Brand Leader                                                    Senior Program Specialist, Classi",diana.plazas@marriott.com,
+marshmcclennan_c1,001Ox00001eajGXIAY,Katy,Rodriguez,"Social Impact, Diversity & Inclusion and Colleague Engagement               Insurance Executive",katy.rodriguez@mmc.com,
+kendrascott_c1,001Ox00001eajGYIAY,Marketing & Philanthropy,Manager,,,
+tiffanyco_c1,001Ox00001eajGZIAY,Jessica,Martinez,"Director, US Operations, Co-Lead, LatinX Employee Resource Group                                        Director, Diversity Equi",jessica.martinez@tiffany.com,
+tiffanyco_c3,001Ox00001eajGZIAY,Angela,Marsh-Coan,,,
+macysinc_c1,001Ox00001eajGaIAI,Emma,Conniff,Corporate Giving Manager             Director Corporate Giving                      Affinity Group Leader                       ,emma.conniff@macys.com,
+macysinc_c3,001Ox00001eajGaIAI,Marie,LaRusso,,,
+coach_c1,001Ox00001eajGbIAI,Brittany,Gray,Assoc. Coach Foundation,coachfoundation@coach.com,
+tapestry_c1,001Ox00001eajGcIAI,DE&I,DE&I,,,
+stopandshop_c1,001Ox00001eajGdIAI,Melissa,Hansen,Program Manager,stopandshop@bags4mycause.com,
+google_c1,001Ox00001eajGfIAI,Karina,Aponte,"HOLA Global Lead, Recuriter",karinaa@googlemail.com,
+amazon_c1,001Ox00001eajGgIAI,Sophia,Paredes,Sr. Technical Product Manager at Amazon,sophiaparedes5@gmail.com,
+linkedin_c1,001Ox00001eajGhIAI,Noel,Blanchet,"Co-Lead of ERG, HOLA NAMER",nblanchet@linkedin.com,
+bmw_c1,001Ox00001eajGjIAI,Estivaliz,Araujo,"Analyst, Customs and Export Controls",estivaliz.araujo@bmwna.com,
+bmw_c3,001Ox00001eajGjIAI,Jennifer,Tavarez,Team Manager-Special Product Investigations,,
+cosmopolitanoflasvegas_c1_2,001Ox00001aKcqdIAC,Michael,Haddad,Social Impact and Sustainability Communications Manager,mhaddad@mgmresorts.com,
+gapinc_c1,001Ox00001eajGmIAI,Jenny,Jones,"Co-Chair HOLA, Latinx Equality + Belonging Group                                        HOLA @ Gap Inc Leadership Team",jenny_jones@gap.com,
+capitalone_c1_2,001Ox00001eajFrIAI,Dave,Hanzel,Senior Director,david.hanzel@capitalone.com,
+avon_c1,001Ox00001eaqADIAY,Susan,Gallo,"Creative Director, Avon NA",,
+nationalgrid_c1_2,001Ox00001V7FlUIAV,National Grid Foundation grant applicati,only,,,
+feldentertainment_c1_2,001Ox00001aKcqXIAS,Nicole,Feld,Board of Directors,nicolefeld@feldinc.com,
+lyft_c1,001Ox00001eaqAFIAY,Celia,Moreno,Senior Social Impat Manager,celiam@lyft.com,
+lyft_c3,001Ox00001eaqAFIAY,Tavonia,Davis,Community Engagement,tavoniadavis@lyft.com,
+mastercard_c1_2,001Ox00001eYA3uIAG,Thoko,Moyo,Senior Director Corporate Communications and Thought Leadership                                    Scholars Program Partner,tmoyo@mastercardfdn.org,
+mastercard_c3,001Ox00001eYA3uIAG,Joseph,Munyambanza,,jmunyambanza@mastercardfdn.org,
+paypalinc_c1_2,001Ox00001aKcqbIAC,Vida,Rios,Lead for Aliados Employee Resource Group,vidrios@paypal.com,
+paypalinc_c3,001Ox00001aKcqbIAC,Karen,Little,"Global Lead, Rapid Response and and Strategic Partnerships",amy.bonitatibus@paypal.com,
+deloitte_c1,001Ox00001eYA3qIAG,Kristy,Chernick,Senior Manager,ahalderman@deloitte.com,
+airbnb_c1,001Ox00001eaqAGIAY,Patrick,Spring,ERG Program Manager,patrick.springer@airbnb.com,
+airbnb_c3,001Ox00001eaqAGIAY,Ashley Galgano,(Women),Executive Recruiting Coordination Lead,ashley.galgano@airbnb.com,
+verizon_c1,001Ox00001eajGNIAY,Alizanette Rodriguez                    ,Nieves,Sr Analyst,alizanette.rodriguez@verizonwireless.com,
+att_c1,001Ox00001eaqAHIAY,Peter,Elorriaga,"AT&T Global Incident Manager, National Board Officer for HACEMOS",petere@att.net,
+amazon_c1_2,001Ox00001eajGgIAI,Geraldine,Riveros,Creative Marketing Managers,geraldine@amazon.com,
+amazon_c3,001Ox00001eajGgIAI,Zena,Margolis,"Global President, Latinos at Amazo",carlosc@amazon.com,
+stanteccompany_c1,001Ox00001eaqAIIAY,Contact,Form,"Vice President, North American Growth Leader",sarah.cwikla@stantec.com,
+stanteccompany_c3,001Ox00001eaqAIIAY,Margaret,Newman,"Principal, Operations",emily.hereford@stantec.com,
+googleorg_c1,001Ox00001eaqAJIAY,Jen,Carter,Product Manager and Head of Tech and Volunteering Teams,omedina@google.com,
+conedison_c1,001Ox00001aKW06IAG,Deneen,Donnley,Senior Vice President and General Counsel,donnleyd@coned.com,
+conedison_c3,001Ox00001aKW06IAG,Joan,Jacobs,"Vice President, Learning and Inclusion",jacobsjo@coned.com,
+rakuten_c1,001Ox00001eaqAKIAY,Ryan,Dolecek,"Senior Director, Strategic Partnerships",patrick.dixon@rakuten.com,
+jetblue_c1_3,001Ox00001eYA3tIAG,Jay,Sequeira,Financial Analyst,jay.sequeira@jetblue.com,
+jetblue_c3,001Ox00001eYA3tIAG,Daniel,Rivas,,daniel.rivas@jetblue.com,
+mazda_c1,001Ox00001eaqAPIAY,Mike,Zagami,Program Director,mzagami@mazdausa.com,
+toyota_c1,001Ox00001eaqAQIAY,Elizabeth,Diaz,TODOS Chair,elizabeth_diaz@toyota.com,
+toyota_c3,001Ox00001eaqAQIAY,Olivia,S.,TODOS Philanthropy Lead,,
+unitedairlines_c1,001Ox00001eaqARIAY,Karina,Mendez,BRG Culture Chair,karina.mendez@united.com,
+unitedairlines_c3,001Ox00001eaqARIAY,Claudia,Cuitino,COO,,
+peloton_c1,001Ox00001eaqATIAY,Molly Ward                              ,Browning,Lead. Women's Alliance                                                  Prog. & Events Chair Womens Alliance                    ,molly.ward@onepeloton.com,
+mets_c1,001Ox00001eaqAUIAY,Isabel,Caro,"Manager, MLB Mental Health and Safety Programs",isabel.caro@mlb.com,
+mets_c3,001Ox00001eaqAUIAY,Ariana,Smith,"Associate Director, Product Management",ariana.smith@mlb.com,
+newbalance_c1,001Ox00001aKcqrIAC,Andrea,Park,"Diversity, Equity, Inclusion & Belonging",andrea.park@newbalance.com,
+adidas_c1,001Ox00001eaqAVIAY,Mitzi M.,(OREGON),VIDA ERG Lead,jasmine.poole@adidas.com,
+adidas_c3,001Ox00001eaqAVIAY,Jasmine,Poole,Operations,,
+reebok_c1,001Ox00001eaqAWIAY,Catherine,McElvenney,Senior Director Global Fashion and Luxury Partnerships & Reebok LTD Product | Merch | Strategy,cmcelvenney@gmail.com,
+alo_c1_2,001Ox00001aKcqSIAS,Natasha,Trindall,General Manager and Vice President,natasha.trindall@aloyoga.com,
+alo_c3,001Ox00001aKcqSIAS,Hudson,Kaplan-Allen,Head of Human Resources,hudson.kaplan-allen@aloyoga.com,
+lululemon_c1,001Ox00001eaqAXIAY,Kristen,Taylor,"Senior Manager, Global Brand Partnerships & Special Projects",kbeilein@lululemon.com,
+athleta_c1,001Ox00001eaqAYIAY,Klare,Williamson,Director of Communications,kwilliamson@athleta.com,
+athleta_c3,001Ox00001eaqAYIAY,Megan,Weiss,"VP, Head of HR",mweiss@athleta.com,
+hispanicfederation2026upliftnewyorkstate_c1,001Ox00001V7FlMIAV,Gonzalo,Loayza,,gloayza@hispanicfederation.org,
+unidosuspionerasenstem_c1,001Ox00001b5sF2IAI,—,Contact,—,,
+unidosusescaleras_c1,001Ox00001b5sF3IAI,—,Contact,—,,
+williamtgrantfoundationyouthserviceimprovementgrant_c1,001Ox00001aDMOzIAO,Nancy,Rivera-Torres,Grants Administrator,nrivera@wtgrantfdn.org,
+lawrencefoundation_c1,001Ox00001aDMP5IAO,Lori,Mitchell,Executive Director,lori@thelawrencefoundation.org,
+theslomo&cindysiivianfoundation_c3,001Ox00001aDMP7IAO,Grossman,Grossman,,,
+newprofit_c1,001Ox00001aDMP8IAO,Danielle,May,Director of Planning,danielle_may@newprofit.org,
+arborrising_c1,001Ox00001aDMPEIA4,Domique,Contact,Senior Associate,dominique@arborrising.org,
+hispanicfederation2026upliftnewyorkstate_c1_2,001Ox00001V7FlMIAV,Gonzalo,Loayza,,gloayza@hispanicfederation.org,
+viapathfoundation_c1,001Ox00001aDMOtIAO,Lisa,Garcias,Director,info@viapath-foundation.org,
+williamtgrantfoundationyouthserviceimprovementgrant_c1_2,001Ox00001aDMOzIAO,Nancy,Rivera-Torres,Grants Administrator,nrivera@wtgrantfdn.org,
+lawrencefoundation_c1_2,001Ox00001aDMP5IAO,Lori,Mitchell,Executive Director,lori@thelawrencefoundation.org,
+theslomo&cindysiivianfoundation_c1,001Ox00001aDMP7IAO,Daniel,Komansky,President and Chairman of the Board of Directors,dkomansky@silvianfoundation.org,
+theslomo&cindysiivianfoundation_c2,001Ox00001aDMP7IAO,David,Grossman,Treasurer and Board Member,,
+newprofit_c1_2,001Ox00001aDMP8IAO,Danielle,May,Director of Planning,danielle_may@newprofit.org,
+sillsfamilyfoundation_c1,001Ox00001b5sF7IAI,Run enitrely by board of family members ,presence,N/A,info@sillsfamilyfoundation.org,
+firsthorizonfoundation_c1,001Ox00001aDMPCIA4,Abbey,Lane,,abbey.lane@firsthorizon.com,
+ichigofoundation_c1,001Ox00001aDMPDIA4,Janel,Callon,President,janel.callon@ichigofoundation.org,
+arborrising_c1_2,001Ox00001aDMPEIA4,Domique,Domique,Senior Associate,dominique@arborrising.org,
+None_c1,001Ox00001eYA3vIAG,Michelle,Stoddart,Community Development Leader,michelle.stoddart@rwnewyork.com,
+None_c1_2,001Ox00001eYA3vIAG,Alexa,Arrechi,Vice President,alexa@lemmastrategies.com,
+None_c1_3,001Ox00001eYA3vIAG,ALMIRCA,SANTIAGO,,asantiago@hispanicfederation.org,
+m&tcharitablefund_c1,001Ox00001V7FlEIAV,Ade,Escayg,,aescayg@mtb.com,
+sillsfamilyfoundation_c1_2,001Ox00001b5sF7IAI,Run enitrely by board of family members ,presence,N/A,info@sillsfamilyfoundation.org,
+mazdafoundation_c1_2,001Ox00001V7FlWIAV,Tamara,Mlynarczyk,Manager,tmlynarc@mazdausa.com,
+zegarfamilyfoundation_c1,001Ox00001V7FlXIAV,Lan,Pham,Chief Operating Officer,lan@zegarff.org,
+thestarrfoundation_c1,001Ox00001V7FlZIAV,Courtney,O'Malley,President,courtney.omalley@starrfoundation.org,
+americanexpresscommunitygiving_c1,001Ox00001V7FlaIAF,Madge,Thomas,President of the American Express Foundation,madge.thomas@aexp.com,
+thecricketislandfoundation_c1,001Ox00001V7FldIAF,T.,Bakare,Grantee Resource Partner,t@cricketisland.org,
+voyafinancialfoundation_c1,001Ox00001V7FleIAF,Brannigan,Thompson,Chief People Officer,brannigan.thompson@voya.com,
+firstniagara_c1,001Ox00001V7FliIAF,Elizabeth,Gurney,Executive Director,,
+charlesr&winifredrweberfoundation_c1,001Ox00001V7FllIAF,Daniel,McSwiggan,Vice President,mcswiggan@clm.com,
+carol&geneludwigfamilyfoundation_c1,001Ox00001V7FloIAF,Meghan,Behnke,Education Program Officer,meghan.behnke@gmail.com,
+ainsliefoundation_c1,001Ox00001V7FlpIAF,Alex,Rafal,Secretary,alex.rafal@maverickcap.com,
+thejpbfoundationnowfreedomtogetherfoundation_c1,001Ox00001aHKWdIAO,Julio,Bautista,Senior Grants and Systems Officer,jbautista@freedomtogether.org,
+solonesummerfieldfoundation_c1,001Ox00001aHKWeIAO,Vanessa,Rivera,Grants and Operations Associate Director,vanessa@intentionalphilanthropy.com,
+williamrkenanjrcharitabletrustnyc_c1,001Ox00001aHKWfIAO,Robby,Russell,Grant Officer,rrussell@kenancharitabletrust.org,
+thewallacefoundation_c1,001Ox00001aHKWgIAO,Deanna,Chernovetsky,Grants Associate,dchernovetsky@wallacefoundation.org,
+thebezosfamilyfoundation_c1,001Ox00001aHKWhIAO,Megan,Wyatt,Managing Director,megan@bezosfamilyfoundation.org,
+thehelmsleycharitabletrustnyc_c1,001Ox00001aHKWiIAO,Tracy,Perrizo,Program Officer,tperrizo@helmsleytrust.org,
+communitasamericamicrogrant_c1,001Ox00001aKcFBIA0,Edward,Greenwood,Edward Greenwood,egreenwood@communitasamerica.org,
+patricjmcgovernfoundation_c1,001Ox00001ayQ8wIAE,Nikita,Japra,Nikita Japra,datapractice@mcgovern.org,
+themoriahfund_c1,001Ox00001aKcFDIA0,Alice Johnson,Cain,Alice Johnson Cain,acain@moriahfund.org,
+thetowfoundation_c1,001Ox00001aKcFEIA0,Angela,Leis,Angela Leis,info@towfoundation.org,
+macarthurfoundation_c1,001Ox00001aKcFFIA0,Gabriela,Suarez,Gabriela Suarez,gsuarez@macfound.org,
+theharnischfoundation_c1,001Ox00001aKcFGIA0,Jenny,Raymond,Jenny Raymond,jenny@thehf.org,
+roberttonybadercharitablefoundation_c1,001Ox00001aKcFHIA0,Jamie Carmody (according to,zoominfo),Jamie Carmody (according to zoominfo),grants@rtbaderfoundation.org,
+thepeterandcarmenluciabuckfoundation_c1,001Ox00001aKcFIIA0,Angela,Andrade,Angela Andrade,juliew@pclbfoundation.org,
+herbblockfoundationdefendingbasicfreedomsgrant_c1,001Ox00001aKcFJIA0,Marcela,Brané,Marcela Brané,mbrane@herbblock.org,
+theisabelallendefoundation_c1,001Ox00001aJTCXIA4,Lori,Barra,Lori Barra,lori@isabelallende.org,
+thecarrollandmiltonpetriefoundation_c1,001Ox00001aKcFKIA0,Desiree,Vazquez,Desiree Vazquez,desiree.vazquez@gmail.com,
+dcuforkidsgrants_c1,001Ox00001aKcFLIA0,David,Araujo,David Araujo,,
+reimanfoundationinc_c1,001Ox00001aKcFMIA0,Scott,Reiman,Scott Reiman,reimanfoundation@hexagoninc.com,
+thewallacefoundation_c1_2,001Ox00001aHKWgIAO,Gigi,Antoni,Gigi Antoni,grantrequest@wallacefoundation.org,
+newyorkfoundation_c1,001Ox00001aKcFNIA0,Rickke,Mananzala,Rickke Mananzala,requests@nyf.org,
+danpaulfoundationgrants_c1,001Ox00001aKcFOIA0,Libby,Cornett,Libby Cornett,danpaulfoundation@gmail.com,
+northstarfund_c1,001Ox00001aKcFPIA0,Jennifer,Ching,Jennifer Ching,jenniferching@northstarfund.org,
+mortonkjaneblausteinfoundation_c1,001Ox00001aKcFQIA0,Betsy F.,Ringel,"Betsy F. Ringel
 Tanya C. Herbick
-Melanie S.",Pinkert,"Betsy F. Ringel
-Tanya C. Herbick
-Melanie S. Pinkert",
-lilahhilliardfisherfoundation_c1,001Ox00001aKcFRIA0,Hilary,Brown,Hilary Brown,habrown@hillmanfo.com
-wallaceglobalfund_c1,001Ox00001aKcFSIA0,Susan,Gibbs,Susan Gibbs,sgibbs@wgf.org
-bernardandaudrerapoportfoundation_c1,001Ox00001aKcFTIA0,Jenny Howe,Peel,Jenny Howe Peel,enny@rapoportfdn.org
-altmanfoundation_c1,001Ox00001aKbHlIAK,Dori,Sama,Dori Sama,
-lilahhillardfisherfoundation_c1,001Ox00001ayQ8xIAE,Hilary,Brown,Hilary Brown,habrown@hillmanfo.com
-mgmresortsfoundationcommunitygrantfund_c1,001Ox00001aKcFWIA0,"Taryn Duffy
-Paul",Salem,"Taryn Duffy
-Paul Salem",foundation@mgmresorts.com
-mbednazalefoundationgrant_c1,001Ox00001aKcFXIA0,Emily A.,Hargrove,Emily A. Hargrove,mail@zalefoundation.org
-theislandfoundation_c1,001Ox00001aKcFYIA0,Rayana,Grace,Rayana Grace,rgrace@islandfdn.org
-theschermanfoundation_c1,001Ox00001aKcFZIA0,Naiche,Parker,Naiche Parker,galvarez@scherman.org
-stevenalexandracohenfoundation_c1,001Ox00001aJTCYIA4,Alyssa,DeFranco,Alyssa DeFranco,alyssa.defranco@steveandalex.org
-theluciusnlittauerfoundation_c1,001Ox00001aKcFaIAK,Alan,Divack,Alan Divack,adivack@littauerfoundation.org
-jezbbutlerfoundationinc_c1,001Ox00001aKcFbIAK,Pat,Goldman,Pat Goldman,pdg@butlerfoundation.org
-meringofffamilyfoundation_c1,001Ox00001V7FljIAF,Stuart Post: Executive,Director,Stuart Post: Executive Director,spost@meringofffoundation.org
-unitedwayofnyc_c1,001Ox00001aKcFcIAK,Megan Brown - Chief Advancement,Officer,Megan Brown - Chief Advancement Officer,mebrown@uwnyc.org
-opensocietyfoundations_c1,001Ox00001aKcFdIAK,Elizabeth,G.,Elizabeth G.,jackie.fishman@opensocietyfoundations.org
-ajafoundation_c1,001Ox00001aKcFeIAK,Colleen,McKenna,Colleen McKenna,
-cherylsabanselfworthfoundationforwomengirls_c1,001Ox00001aKcFfIAK,"Jesse Bronner
-Amanda",Rosenberg,"Jesse Bronner
-Amanda Rosenberg",jbronner@saban.com
-openmeadowfoundation_c1,001Ox00001aKcFgIAK,Joy,Messinger,Joy Messinger,joy@thirdwavefund.org
-prospecthillfoundation_c1,001Ox00001aHKWpIAO,Zanny,Love,Zanny Love,grants@prospect-hill.org
-theleonamandharrybhemsleycharitabletrust_c1,001Ox00001aKcFhIAK,Tracy,Perrizo,Tracy Perrizo,tperrizo@helmsleytrust.org
-hispanicheritagefoundation_c1,001Ox00001aKcFiIAK,"Brenda Camarillo
-Camila",Zamorano,"Brenda Camarillo
-Camila Zamorano",brenda@hispanicheritage.org
-thepershingsquarefoundation_c1,001Ox00001aKcFjIAK,Christy Barrow Program,Manager,Christy Barrow Program Manager,cbarrow@persq.org
-allstatefoundationracialequitygrant_c1,001Ox00001aKcFkIAK,Inez,Birbiglia,Inez Birbiglia,ibirb@allstate.com
-americanassociationofuniversitywomen_c1,001Ox00001aKcFmIAK,Shana,Sabbath,Shana Sabbath,
-charlesafrueaufffoundationinc_c1,001Ox00001aKcFnIAK,Anna Kay,Frueauff,Anna Kay Frueauff,alma@frueauff.org
-wkkelloggfoundationnotaffiliatedwiththekelloggcompany_c1,001Ox00001aKcFpIAK,Donald G.,Williamson,Donald G. Williamson,donald.williamson@wkkf.org
-mamacashgranttheresiliencefund_c1,001Ox00001aKcFqIAK,Coco,Jervis,Coco Jervis,c.jervis@mamacash.org
-billandmelindagatesfoundation_c1,001Ox00001aJTCQIA4,Sara,Allen,Sara Allen,edwin.darden@gatesfoundation.org
-pershingsquarefoundation_c1,001Ox00001ayQ8yIAE,Diana,Won,Diana Won,dwon@persq.org
-patrickjmcgovernfoundation_c1,001Ox00001aJTCTIA4,Monica,wright,Monica wright,mwright@mcgovern.org
-theupswingfund_c1,001Ox00001aJTCUIA4,Jennifer,Cho,Jennifer Cho,jennifer.cho@panoramaglobal.org
-themichaelsusandellfoundation_c1,001Ox00001aJTCWIA4,Janet,Mountain,Janet Mountain,janet.mountain@msdf.org
-theisabelallendefoundation_c1_2,001Ox00001aJTCXIA4,Lori,Barra,Lori Barra,lori@isabelallende.org
-stevenalexandracohenfoundation_c1_2,001Ox00001aJTCYIA4,Biniyam,Estifanos,Biniyam Estifanos,biniyam.estifanos@steveandalex.org
-gilmorefoundationgrantsnyccommunities_c1,001Ox00001aJTCZIA4,Aditi,V,Aditi V,
-collectivefuturefund_c1,001Ox00001aJTCaIAO,Aleyamma,Mathew,Aleyamma Mathew,grants@collectivefuturefund.org
-monafoundation_c1,001Ox00001aJTCbIAO,Laura,Baerwolf,Laura Baerwolf,laura@monafoundation.org
-globalfundforwomen_c1,001Ox00001aKbHdIAK,Cinthia,Carvajal,Cinthia Carvajal,grantsinfo@globalfundforwomen.org
-globalfundforchildren_c1,001Ox00001aJTCcIAO,Daniela,Martinez,Daniela Martinez,dmartinez@globalfundforchildren.org
-comofoundationgrants_c1,001Ox00001aJTCdIAO,Ming,T.,Ming T.,
-canonusadonations_c1,001Ox00001aJTCeIAO,Siobhan,Cullagh,Siobhan Cullagh,scullagh@cusa.canon.com
-hearstfoundation_c1,001Ox00001aJTCfIAO,"Ligia Cravo
-Alison",Yu,"Ligia Cravo
-Alison Yu",hearst.ny@hearstfdn.org
-feministmajorityfoundation_c1,001Ox00001aJTCgIAO,Valerie,Cain,Valerie Cain,vcain@feminist.org
-thetonyrobbinsfoundations_c1,001Ox00001aKI3ZIAW,"John Messmore
+Melanie S. Pinkert",,
+lilahhilliardfisherfoundation_c1,001Ox00001aKcFRIA0,Hilary,Brown,Hilary Brown,habrown@hillmanfo.com,
+wallaceglobalfund_c1,001Ox00001aKcFSIA0,Susan,Gibbs,Susan Gibbs,sgibbs@wgf.org,
+bernardandaudrerapoportfoundation_c1,001Ox00001aKcFTIA0,Jenny Howe,Peel,Jenny Howe Peel,enny@rapoportfdn.org,
+altmanfoundation_c1,001Ox00001aKbHlIAK,Dori,Sama,Dori Sama,,
+lilahhillardfisherfoundation_c1,001Ox00001ayQ8xIAE,Hilary,Brown,Hilary Brown,habrown@hillmanfo.com,
+mgmresortsfoundationcommunitygrantfund_c1,001Ox00001aKcFWIA0,Taryn,Duffy,"Taryn Duffy
+Paul Salem",foundation@mgmresorts.com,
+mbednazalefoundationgrant_c1,001Ox00001aKcFXIA0,Emily A.,Hargrove,Emily A. Hargrove,mail@zalefoundation.org,
+theislandfoundation_c1,001Ox00001aKcFYIA0,Rayana,Grace,Rayana Grace,rgrace@islandfdn.org,
+theschermanfoundation_c1,001Ox00001aKcFZIA0,Naiche,Parker,Naiche Parker,galvarez@scherman.org,
+stevenalexandracohenfoundation_c1,001Ox00001aJTCYIA4,Alyssa,DeFranco,Alyssa DeFranco,alyssa.defranco@steveandalex.org,
+theluciusnlittauerfoundation_c1,001Ox00001aKcFaIAK,Alan,Divack,Alan Divack,adivack@littauerfoundation.org,
+jezbbutlerfoundationinc_c1,001Ox00001aKcFbIAK,Pat,Goldman,Pat Goldman,pdg@butlerfoundation.org,
+meringofffamilyfoundation_c1,001Ox00001V7FljIAF,Stuart Post: Executive,Director,Stuart Post: Executive Director,spost@meringofffoundation.org,
+unitedwayofnyc_c1,001Ox00001aKcFcIAK,Megan Brown - Chief Advancement,Officer,Megan Brown - Chief Advancement Officer,mebrown@uwnyc.org,
+opensocietyfoundations_c1,001Ox00001aKcFdIAK,Elizabeth,G.,Elizabeth G.,jackie.fishman@opensocietyfoundations.org,
+ajafoundation_c1,001Ox00001aKcFeIAK,Colleen,McKenna,Colleen McKenna,,
+cherylsabanselfworthfoundationforwomengirls_c1,001Ox00001aKcFfIAK,Jesse,Bronner,"Jesse Bronner
+Amanda Rosenberg",jbronner@saban.com,
+openmeadowfoundation_c1,001Ox00001aKcFgIAK,Joy,Messinger,Joy Messinger,joy@thirdwavefund.org,
+prospecthillfoundation_c1,001Ox00001aHKWpIAO,Zanny,Love,Zanny Love,grants@prospect-hill.org,
+theleonamandharrybhemsleycharitabletrust_c1,001Ox00001aKcFhIAK,Tracy,Perrizo,Tracy Perrizo,tperrizo@helmsleytrust.org,
+hispanicheritagefoundation_c1,001Ox00001aKcFiIAK,Brenda,Camarillo,"Brenda Camarillo
+Camila Zamorano",brenda@hispanicheritage.org,
+thepershingsquarefoundation_c1,001Ox00001aKcFjIAK,Christy Barrow Program,Manager,Christy Barrow Program Manager,cbarrow@persq.org,
+allstatefoundationracialequitygrant_c1,001Ox00001aKcFkIAK,Inez,Birbiglia,Inez Birbiglia,ibirb@allstate.com,
+americanassociationofuniversitywomen_c1,001Ox00001aKcFmIAK,Shana,Sabbath,Shana Sabbath,,
+charlesafrueaufffoundationinc_c1,001Ox00001aKcFnIAK,Anna Kay,Frueauff,Anna Kay Frueauff,alma@frueauff.org,
+wkkelloggfoundationnotaffiliatedwiththekelloggcompany_c1,001Ox00001aKcFpIAK,Donald G.,Williamson,Donald G. Williamson,donald.williamson@wkkf.org,
+mamacashgranttheresiliencefund_c1,001Ox00001aKcFqIAK,Coco,Jervis,Coco Jervis,c.jervis@mamacash.org,
+billandmelindagatesfoundation_c1,001Ox00001aJTCQIA4,Sara,Allen,Sara Allen,edwin.darden@gatesfoundation.org,
+pershingsquarefoundation_c1,001Ox00001ayQ8yIAE,Diana,Won,Diana Won,dwon@persq.org,
+patrickjmcgovernfoundation_c1,001Ox00001aJTCTIA4,Monica,wright,Monica wright,mwright@mcgovern.org,
+theupswingfund_c1,001Ox00001aJTCUIA4,Jennifer,Cho,Jennifer Cho,jennifer.cho@panoramaglobal.org,
+themichaelsusandellfoundation_c1,001Ox00001aJTCWIA4,Janet,Mountain,Janet Mountain,janet.mountain@msdf.org,
+theisabelallendefoundation_c1_2,001Ox00001aJTCXIA4,Lori,Barra,Lori Barra,lori@isabelallende.org,
+stevenalexandracohenfoundation_c1_2,001Ox00001aJTCYIA4,Biniyam,Estifanos,Biniyam Estifanos,biniyam.estifanos@steveandalex.org,
+gilmorefoundationgrantsnyccommunities_c1,001Ox00001aJTCZIA4,Aditi,V,Aditi V,,
+collectivefuturefund_c1,001Ox00001aJTCaIAO,Aleyamma,Mathew,Aleyamma Mathew,grants@collectivefuturefund.org,
+monafoundation_c1,001Ox00001aJTCbIAO,Laura,Baerwolf,Laura Baerwolf,laura@monafoundation.org,
+globalfundforwomen_c1,001Ox00001aKbHdIAK,Cinthia,Carvajal,Cinthia Carvajal,grantsinfo@globalfundforwomen.org,
+globalfundforchildren_c1,001Ox00001aJTCcIAO,Daniela,Martinez,Daniela Martinez,dmartinez@globalfundforchildren.org,
+comofoundationgrants_c1,001Ox00001aJTCdIAO,Ming,T.,Ming T.,,
+canonusadonations_c1,001Ox00001aJTCeIAO,Siobhan,Cullagh,Siobhan Cullagh,scullagh@cusa.canon.com,
+hearstfoundation_c1,001Ox00001aJTCfIAO,Ligia,Cravo,"Ligia Cravo
+Alison Yu",hearst.ny@hearstfdn.org,
+feministmajorityfoundation_c1,001Ox00001aJTCgIAO,Valerie,Cain,Valerie Cain,vcain@feminist.org,
+thetonyrobbinsfoundations_c1,001Ox00001aKI3ZIAW,John,Messmore,"John Messmore
 Deanna Garza-Brown
 Ajay Gupta
-Ana",Gomez,"John Messmore
-Deanna Garza-Brown
-Ajay Gupta
-Ana Gomez",foundation@thetonyrobbinsfoundation.org
-thetidesfoundation_c1,001Ox00001aJTChIAO,"Sarita Michaca
-Jacob",Weldon,"Sarita Michaca
-Jacob Weldon",smichaca@tides.org
-boacharitablefoundation_c1,001Ox00001aJTCiIAO,Bank of America Foundation Grants,Team,Bank of America Foundation Grants Team,foundation@bofa.com
-aerierealfoundation_c1,001Ox00001aJTCjIAO,Judy,Meehan,Judy Meehan,grants@ae.com
-citifoundationgrant_c1,001Ox00001aJTCkIAO,Micaela,Duffy,Micaela Duffy,citifoundation@citi.com
-thefordfoundationgoodneighborcommittee_c1,001Ox00001aJTClIAO,Nathalie,Perez,Nathalie Perez,n.perez@fordfoundation.org
-charlesstewartmottfoundation_c1,001Ox00001aJTCmIAO,Gwynn,Hughes,Gwynn Hughes,info@mott.org
-solonesummerfieldfoundation_c1_2,001Ox00001aHKWeIAO,Anne,Tregar,Anne Tregar,info@summerfieldfoundation.org
-wkkelloggfoundation_c1,001Ox00001aJTCnIAO,Miriam,Calderon,Miriam Calderon,conciergedesk@wkkf.org
-thedavidprize_c1,001Ox00001aJTCpIAO,—,Contact,—,
-thelawrencefoundation_c1,001Ox00001ayQ8zIAE,Lori,Mitchell,Lori Mitchell,info@lawrencefoundation.org
-impact100_c1,001Ox00001aJTCsIAO,Mindy,Propper,Mindy Propper,grantq@impact100nyc.org
-charleshaydenfoundation_c1,001Ox00001aKbHnIAK,Allison,Palmer,Allison Palmer,allisonp@chf.org
-firsthorizonfoundation_c1_2,001Ox00001aDMPCIA4,Abbey,Lane,Abbey Lane,abbey.lane@firsthorizon.com
-ichigofoundation_c1_2,001Ox00001aDMPDIA4,Janel,Callon,Janel Callon,janel.callon@ichigofoundation.org
-foresthillsstadiumcommunityfund_c1,001Ox00001aDMPGIA4,Alexa,Arrechi,Alexa Arrechi,alexa@lemmastrategies.com
-markwahlbergyouthfoundation_c1,001Ox00001aKbHWIA0,James,Wahlberg,James Wahlberg,jwahlberg@wahlst.com
-thetonyrobbinsfoundations_c1_2,001Ox00001aKI3ZIAW,John,Messmore,John Messmore,foundation@thetonyrobbinsfoundation.org
-venablefoundation_c1,001Ox00001aKbHYIA0,Michael,Bigley,Michael Bigley,mwbigley@venable.com
-carmelhillfund_c1,001Ox00001aHKWsIAO,Hazel,Guzman,Hazel Guzman,hguzman@carmelhill.net
-theclevelandhdodgefoundation_c1,001Ox00001aKbHZIA0,Emily,Mommsen,Emily Mommsen,connect@chdodgefoundation.org
-mckeenfund_c1,001Ox00001aKbHbIAK,James J.,Daly,James J. Daly,info@mckeenfund.org
-theteaglefoundation_c1,001Ox00001aKbHcIAK,Gwen,Robbins,Gwen Robbins,ttweel@teagle.org
-globalfundforwomen_c1_2,001Ox00001aKbHdIAK,Pardeepa,Jeeva,Pardeepa Jeeva,pjeeva@globalfundforwomen.org
-halfmydaf_c1,001Ox00001aKbHeIAK,Jennifer,Risher,Jennifer Risher,grants@amalgamatedfoundation.org
-bergerfamilyfoundation_c1,001Ox00001aKbHfIAK,Amy,Krulik,Amy Krulik,akrulik@hopeanddoor.org
-websterbankcharitablefoundation_c1,001Ox00001aKbHgIAK,Nanette,Jimenez,Nanette Jimenez,najimenez@websterbank.com
-newyorkcommunitytrust_c1,001Ox00001V7FlNIAV,Leigh C.,Ross,Leigh C. Ross,lcr@nyct-cfi.org
-thepinkertonfoundation_c1,001Ox00001ayQ91IAE,Yvonne,Schonborg,Yvonne Schonborg,yschonborg@pinkertonfdn.org
+Ana Gomez",foundation@thetonyrobbinsfoundation.org,
+thetidesfoundation_c1,001Ox00001aJTChIAO,Sarita,Michaca,"Sarita Michaca
+Jacob Weldon",smichaca@tides.org,
+boacharitablefoundation_c1,001Ox00001aJTCiIAO,Bank of America Foundation Grants,Team,Bank of America Foundation Grants Team,foundation@bofa.com,
+aerierealfoundation_c1,001Ox00001aJTCjIAO,Judy,Meehan,Judy Meehan,grants@ae.com,
+citifoundationgrant_c1,001Ox00001aJTCkIAO,Micaela,Duffy,Micaela Duffy,citifoundation@citi.com,
+thefordfoundationgoodneighborcommittee_c1,001Ox00001aJTClIAO,Nathalie,Perez,Nathalie Perez,n.perez@fordfoundation.org,
+charlesstewartmottfoundation_c1,001Ox00001aJTCmIAO,Gwynn,Hughes,Gwynn Hughes,info@mott.org,
+solonesummerfieldfoundation_c1_2,001Ox00001aHKWeIAO,Anne,Tregar,Anne Tregar,info@summerfieldfoundation.org,
+wkkelloggfoundation_c1,001Ox00001aJTCnIAO,Miriam,Calderon,Miriam Calderon,conciergedesk@wkkf.org,
+thedavidprize_c1,001Ox00001aJTCpIAO,—,Contact,—,,
+thelawrencefoundation_c1,001Ox00001ayQ8zIAE,Lori,Mitchell,Lori Mitchell,info@lawrencefoundation.org,
+impact100_c1,001Ox00001aJTCsIAO,Mindy,Propper,Mindy Propper,grantq@impact100nyc.org,
+charleshaydenfoundation_c1,001Ox00001aKbHnIAK,Allison,Palmer,Allison Palmer,allisonp@chf.org,
+firsthorizonfoundation_c1_2,001Ox00001aDMPCIA4,Abbey,Lane,Abbey Lane,abbey.lane@firsthorizon.com,
+ichigofoundation_c1_2,001Ox00001aDMPDIA4,Janel,Callon,Janel Callon,janel.callon@ichigofoundation.org,
+foresthillsstadiumcommunityfund_c1,001Ox00001aDMPGIA4,Alexa,Arrechi,Alexa Arrechi,alexa@lemmastrategies.com,
+markwahlbergyouthfoundation_c1,001Ox00001aKbHWIA0,James,Wahlberg,James Wahlberg,jwahlberg@wahlst.com,
+thetonyrobbinsfoundations_c1_2,001Ox00001aKI3ZIAW,John,Messmore,John Messmore,foundation@thetonyrobbinsfoundation.org,
+venablefoundation_c1,001Ox00001aKbHYIA0,Michael,Bigley,Michael Bigley,mwbigley@venable.com,
+carmelhillfund_c1,001Ox00001aHKWsIAO,Hazel,Guzman,Hazel Guzman,hguzman@carmelhill.net,
+theclevelandhdodgefoundation_c1,001Ox00001aKbHZIA0,Emily,Mommsen,Emily Mommsen,connect@chdodgefoundation.org,
+mckeenfund_c1,001Ox00001aKbHbIAK,James J.,Daly,James J. Daly,info@mckeenfund.org,
+theteaglefoundation_c1,001Ox00001aKbHcIAK,Gwen,Robbins,Gwen Robbins,ttweel@teagle.org,
+globalfundforwomen_c1_2,001Ox00001aKbHdIAK,Pardeepa,Jeeva,Pardeepa Jeeva,pjeeva@globalfundforwomen.org,
+halfmydaf_c1,001Ox00001aKbHeIAK,Jennifer,Risher,Jennifer Risher,grants@amalgamatedfoundation.org,
+bergerfamilyfoundation_c1,001Ox00001aKbHfIAK,Amy,Krulik,Amy Krulik,akrulik@hopeanddoor.org,
+websterbankcharitablefoundation_c1,001Ox00001aKbHgIAK,Nanette,Jimenez,Nanette Jimenez,najimenez@websterbank.com,
+newyorkcommunitytrust_c1,001Ox00001V7FlNIAV,Leigh C.,Ross,Leigh C. Ross,lcr@nyct-cfi.org,
+thepinkertonfoundation_c1,001Ox00001ayQ91IAE,Yvonne,Schonborg,Yvonne Schonborg,yschonborg@pinkertonfdn.org,
+manhattanboroughpresident-marklevine_c1,001Ox00001eaqAaIAI,Mark,Levine,Borough President,info@votemarklevine.com,
+queensboroughpresident-donovanrichards_c1,001Ox00001eaqAbIAI,Donovan,Richards,Borough President,info@queensbp.org,
+brooklynboroughpresident-antonioreynoso_c1,001Ox00001eaqAcIAI,Antonio,Reynoso,Borough President,areynoso@council.nyc.gov,
+bronxboroughpresident-vanessagibson_c1,001Ox00001eaqAdIAI,Vanessa,Gibson,Borough President,info@gibsonbp2021.com,
+statenislandboroughpresident-vitofossella_c1,001Ox00001eaqAeIAI,Vito,Fossella,Borough President,info@murphyforstatenisland.com,
+uscongressdistrict6-gracemeng_c1,001Ox00001eaqAfIAI,Maeve,Healy,District Staff,maeve.healy@mail.house.gov,
+uscongressdistrict6-gracemeng_c3,001Ox00001eaqAfIAI,Mark,Olson,Legislative Director,,
+uscongressdistrict7-nydiavelazquez_c1,001Ox00001eaqAgIAI,Melissa,Jung,District Staff,melissa.jung@mail.house.gov,
+uscongressdistrict12-jerroldnadler_c1,001Ox00001eaqAhIAI,Amy,Rutkin,District Staff,amy.rutkin@mail.house.gov,
+uscongressdistrict15-ritchietorres_c1,001Ox00001eaqAiIAI,Angel,Vazquez,District Staff,angel.vazquez@mail.house.gov,
+nyccouncildistrict1-christophermarte_c1,001Ox00001eaqAjIAI,Christopher,Marte,Council Member,district1@council.nyc.gov,
+nyccouncildistrict1-christophermarte_c3,001Ox00001eaqAjIAI,Ian,Wang,Legislative Director,iwang@council.nyc.gov,
+nyccouncildistrict2-carlinarivera_c1,001Ox00001eaqAkIAI,Carlina,Rivera,Council Member,district2@council.nyc.gov,
+nyccouncildistrict2-carlinarivera_c3,001Ox00001eaqAkIAI,Isabelle,Chandler,Legislative Director,ichandler@council.nyc.gov,
+nyccouncildistrict3-ericbottcher_c1,001Ox00001eaqAlIAI,Eric,Bottcher,Council Member,district3@council.nyc.gov,
+nyccouncildistrict4-keithpowers_c1,001Ox00001eaqAmIAI,Keith,Powers,Council Member,kpowers@council.nyc.gov,
+nyccouncildistrict4-keithpowers_c3,001Ox00001eaqAmIAI,Kaye,Dyja,Legislative Director,kdyja@council.nyc.gov,
+nyccouncildistrict5-juliemenin_c1,001Ox00001eaqAnIAI,Julie,Menin,Council Member,district5@council.nyc.gov,
+nyccouncildistrict5-juliemenin_c3,001Ox00001eaqAnIAI,Brandon,Jordan,Legislative Director,cdotchev@council.nyc.gov,
+nyccouncildistrict6-galebrewer_c1,001Ox00001eaqAoIAI,Gale,Brewer,Council Member,district6@council.nyc.gov,
+nyccouncildistrict6-galebrewer_c3,001Ox00001eaqAoIAI,Cynthia,Hornig,Legislative Director,chornig@council.nyc.gov,
+nyccouncildistrict7-shaunabreu_c1,001Ox00001eaqApIAI,Shaun,Abreu,Council Member,district7@council.nyc.gov,
+nyccouncildistrict8-dianaayala_c1,001Ox00001eaqAqIAI,Diana,Ayala,Council Member,dayala@council.nyc.gov,
+nyccouncildistrict8-dianaayala_c3,001Ox00001eaqAqIAI,Michelle,Cruz,Legislative Director,micruz@council.nyc.gov,
+nyccouncildistrict9-kristinrichardsonjordan_c1,001Ox00001eaqArIAI,Kristin Richardson,Jordan,Council Member,district9@council.nyc.gov,
+nyccouncildistrict10-carmendelarosa_c1,001Ox00001eaqAsIAI,Carmen De La,Rosa,Council Member,district10@council.nyc.gov,
+nyccouncildistrict10-carmendelarosa_c3,001Ox00001eaqAsIAI,Kiana,Diaz,Legislative Director,kdiaz@council.nyc.gov,
+nyccouncildistrict11-ericdinowitz_c1,001Ox00001eaqAtIAI,Eric,Dinowitz,Council Member,dinowitz@council.nyc.gov,
+nyccouncildistrict11-ericdinowitz_c3,001Ox00001eaqAtIAI,Michael,Corbett,Legislative Director,mcorbett@council.nyc.gov,
+nyccouncildistrict12-kevinriley_c1,001Ox00001eaqAuIAI,Kevin,Riley,Council Member,district12@council.nyc.gov,
+nyccouncildistrict12-kevinriley_c3,001Ox00001eaqAuIAI,Simone,Jones,Legislative Director,sijones@council.nyc.gov,
+nyccouncildistrict13-kristymarmorato_c1,001Ox00001eaqAvIAI,Kristy,Marmorato,Council Member,district13@council.nyc.gov,
+nyccouncildistrict13-kristymarmorato_c3,001Ox00001eaqAvIAI,Mark,Nitis,Legislative Director,mnitis@council.nyc.gov,
+nyccouncildistrict14-pierinasanchez_c1,001Ox00001eaqAwIAI,Pierina,Sanchez,Council Member,district14@council.nyc.gov,
+nyccouncildistrict15-oswaldfeliz_c1,001Ox00001eaqAxIAI,Oswald,Feliz,Council Member,district15@council.nyc.gov,
+nyccouncildistrict15-oswaldfeliz_c3,001Ox00001eaqAxIAI,Atenedoro,Gonzalez,Legislative Director,atgonzalez@council.nyc.gov,
+nyccouncildistrict16-altheastevens_c1,001Ox00001eaqAyIAI,Althea,Stevens,Council Member,district16@council.nyc.gov,
+nyccouncildistrict17-rafaelsalamancajr_c1,001Ox00001eaqAzIAI,Rafael Salamanca,Jr.,Council Member,rsalamanca@council.nyc.gov,
+nyccouncildistrict17-rafaelsalamancajr_c3,001Ox00001eaqAzIAI,Brian,Hetey,Legislative Director,bhetey@council.nyc.gov,
+nyccouncildistrict18-amandafariasreachoutwithsameemailasrafael_c1,001Ox00001eaqB0IAI,Amanda Farías (Reach out with same email,Rafael),Council Member,district18@council.nyc.gov,
+nyccouncildistrict18-amandafariasreachoutwithsameemailasrafael_c3,001Ox00001eaqB0IAI,Daniel,Curtin,Legislative Director,dcurtin@council.nyc.gov,
+nyccouncildistrict19-vickiepaladino_c1,001Ox00001eaqB1IAI,Vickie,Paladino,Council Member,district19@council.nyc.gov,
+nyccouncildistrict19-vickiepaladino_c3,001Ox00001eaqB1IAI,Ahmed,Nazar,Legislative Director,anazaar@council.nyc.gov,
+nyccouncildistrict20-sandraung_c1,001Ox00001eaqB2IAI,Sandra,Ung,Council Member,district20@council.nyc.gov,
+nyccouncildistrict20-sandraung_c3,001Ox00001eaqB2IAI,Elaine,Cheung,Legislative Director,echeung@council.nyc.gov,
+nyccouncildistrict21-franciscomoya_c1,001Ox00001eaqB3IAI,Francisco,Moya,Council Member,fmoya@council.nyc.gov,
+nyccouncildistrict21-franciscomoya_c3,001Ox00001eaqB3IAI,Rebecca,Beaver,Legislative Director,mtadio@council.nyc.gov,
+nyccouncildistrict22-tiffanycaban_c1,001Ox00001eaqB4IAI,Tiffany,Cabán,Council Member,district22@council.nyc.gov,
+nyccouncildistrict22-tiffanycaban_c3,001Ox00001eaqB4IAI,Madhuri,Shukla,Legislative Director,mshukla@council.nyc.gov,
+nyccouncildistrict23-lindalee_c1,001Ox00001eaqB5IAI,Linda,Lee,Council Member,district23@council.nyc.gov,
+nyccouncildistrict24-jamesgennaro_c1,001Ox00001eaqB6IAI,James,Gennaro,Council Member,district24@council.nyc.gov,
+nyccouncildistrict24-jamesgennaro_c3,001Ox00001eaqB6IAI,Nabjot,Kaur,Legislative Director,nkaur@council.nyc.gov,
+nyccouncildistrict25-shekarkrishnan_c1,001Ox00001eaqB7IAI,Shekar,Krishnan,Council Member,district25@council.nyc.gov,
+nyccouncildistrict25-shekarkrishnan_c3,001Ox00001eaqB7IAI,Greg,Clark,Legislative Director,gclark@council.nyc.gov,
+nyccouncildistrict26-juliewon_c1,001Ox00001eaqB8IAI,Julie,Won,Council Member,district26@council.nyc.gov,
+nyccouncildistrict26-juliewon_c3,001Ox00001eaqB8IAI,Kevin,Kiprovski,Legislative Director,kkiprovski@council.nyc.gov,
+nyccouncildistrict27-nantashawilliams_c1,001Ox00001eaqB9IAI,Nantasha,Williams,Council Member,district27@council.nyc.gov,
+nyccouncildistrict28-adrienneeadams_c1,001Ox00001eaqBAIAY,Adrienne E.,Adams,Council Member,adams@council.nyc.gov,
+nyccouncildistrict28-adrienneeadams_c3,001Ox00001eaqBAIAY,Benjamin,Fang,Legislative Director,bfang@council.nyc.gov,
+nyccouncildistrict29-lynnschulman_c1,001Ox00001eaqBBIAY,Lynn,Schulman,Council Member,district29@council.nyc.gov,
+nyccouncildistrict30-robertfholden_c1,001Ox00001eaqBCIAY,Robert F.,Holden,Council Member,district30@council.nyc.gov,
+nyccouncildistrict30-robertfholden_c3,001Ox00001eaqBCIAY,Daniel,Kurzyna,Legislative Director,dkurzyna@council.nyc.gov,
+nyccouncildistrict31-selvenabrooks-powers_c1,001Ox00001eaqBDIAY,Selvena,Brooks-Powers,Council Member,district31@council.nyc.gov,
+nyccouncildistrict31-selvenabrooks-powers_c3,001Ox00001eaqBDIAY,Alex,Hunter,Legislative Director,ahunter@council.nyc.gov,
+nyccouncildistrict32-joannariola_c1,001Ox00001eaqBEIAY,Joann,Ariola,Council Member,district32@council.nyc.gov,
+nyccouncildistrict33-lincolnrestler_c1,001Ox00001eaqBFIAY,Lincoln,Restler,Council Member,district33@council.nyc.gov,
+nyccouncildistrict34-jennifergutierrez_c1,001Ox00001eaqBGIAY,Jennifer,Gutiérrez,Council Member,district34@council.nyc.gov,
+nyccouncildistrict35-crystalhudson_c1,001Ox00001eaqBHIAY,Crystal,Hudson,Council Member,district35@council.nyc.gov,
+nyccouncildistrict36-chiosse_c1,001Ox00001eaqBIIAY,Chi,Ossé,Council Member,district36@council.nyc.gov,
+nyccouncildistrict37-sandynurse_c1,001Ox00001eaqBJIAY,Sandy,Nurse,Council Member,district37@council.nyc.gov,
+nyccouncildistrict38-alexaaviles_c1,001Ox00001eaqBKIAY,Alexa,Avilés,Council Member,district38@council.nyc.gov,
+nyccouncildistrict39-shahanahanif_c1,001Ox00001eaqBLIAY,Shahana,Hanif,Council Member,district39@council.nyc.gov,
+nyccouncildistrict40-ritajoseph_c1,001Ox00001eaqBMIAY,Rita,Joseph,Council Member,district40@council.nyc.gov,
+nyccouncildistrict41-darlenemealy_c1,001Ox00001eaqBNIAY,Darlene,Mealy,Council Member,district41@council.nyc.gov,
+nyccouncildistrict42-charlesbarron_c1,001Ox00001eaqBOIAY,Charles,Barron,Council Member,district42@council.nyc.gov,
+nyccouncildistrict43-justinbrannan_c1,001Ox00001eaqBPIAY,Justin,Brannan,Council Member,jbrannan@council.nyc.gov,
+nyccouncildistrict44-kalmanyeger_c1,001Ox00001eaqBQIAY,Kalman,Yeger,Council Member,kyeger@council.nyc.gov,
+nyccouncildistrict45-farahnlouis_c1,001Ox00001eaqBRIAY,Farah N.,Louis,Council Member,flouis@council.nyc.gov,
+nyccouncildistrict45-farahnlouis_c3,001Ox00001eaqBRIAY,Kristia,Winter,Legislative Director,kwinter@council.nyc.gov,
+nyccouncildistrict46-mercedesnarcisse_c1,001Ox00001eaqBSIAY,Mercedes,Narcisse,Council Member,district46@council.nyc.gov,
+nyccouncildistrict47-arikagan_c1,001Ox00001eaqBTIAY,Ari,Kagan,Council Member,district47@council.nyc.gov,
+nyccouncildistrict48-innavernikov_c1,001Ox00001eaqBUIAY,Inna,Vernikov,Council Member,district48@council.nyc.gov,
+nyccouncildistrict49-kamillahhanks_c1,001Ox00001eaqBVIAY,Kamillah,Hanks,Council Member,district49@council.nyc.gov,
+nyccouncildistrict49-kamillahhanks_c3,001Ox00001eaqBVIAY,Paul,Casali,Legislative Director,paulcasali.d49@gmail.com,
+nyccouncildistrict50-davidcarr_c1,001Ox00001eaqBWIAY,David,Carr,Council Member,dcarr@council.nyc.gov,
+nyccouncildistrict51-josephcborelli_c1,001Ox00001eaqBXIAY,Joseph C.,Borelli,Council Member,borelli@council.nyc.gov,
+nyccouncildistrict51-josephcborelli_c3,001Ox00001eaqBXIAY,Frank,Mascia,Legislative Director,fmascia@council.nyc.gov,
+nycgov-blaccaucus_c1,001Ox00001eaqBZIAY,Brandon,Clarke,Legislative Administrative Manager,bclarke@council.nyc.gov,
+nycgov-womenscaucus_c1,001Ox00001eaqBaIAI,Julie,Menin,Co-Chair,district5@council.nyc.gov,
+nycgov-womenscaucus_c3,001Ox00001eaqBaIAI,Carmen De La,Rosa,Co-Chair,district10@council.nyc.gov,
+nycgov-brooklyndelegation_c1,001Ox00001eaqBbIAI,May,Vutrapongvatana,Director of Policy and Budget Initiatives,mvutrapongvatana@council.nyc.gov,
+nycgov-brooklyndelegation_c3,001Ox00001eaqBbIAI,Chi A.,Ossé,Co-Chair,,
+nycgov-queensdelegation_c1,001Ox00001eaqBcIAI,Adrienne E.,Adams,The Speaker,adams@council.nyc.gov,
+nycgov-queensdelegation_c3,001Ox00001eaqBcIAI,Sandra,Ung,Council Member,district20@council.nyc.gov,
+nycgov-manhattandelegation_c1,001Ox00001eaqBdIAI,Christopher,Marte,Co-Chair,district1@council.nyc.gov,
+nycgov-bronxdelegation_c1,001Ox00001eaqBeIAI,Althea,Stevens,Co-Chair,district16@council.nyc.gov,
+nycgov-bronxdelegation_c3,001Ox00001eaqBeIAI,Diana,Ayala,Council Member,dayala@council.nyc.gov,
+nycgov-committeeonwomenandgenderequity_c1,001Ox00001eaqBfIAI,Farah,Louis,Chairperson,district45@council.nyc.gov,
+nycgov-committeeonwomenandgenderequity_c3,001Ox00001eaqBfIAI,Tiffany,Cabán,Council Member,district22@council.nyc.gov,
+nycgov-committeeonchildrenandyouth_c1,001Ox00001eaqBgIAI,Althea,Stevens,Chairperson,district16@council.nyc.gov,
+nycgov-committeeoneducation_c1,001Ox00001eaqBhIAI,Rita,Joseph,Chairperson,district40@council.nyc.gov,
+nycgov-committeeoneducation_c3,001Ox00001eaqBhIAI,Jennifer,Gutiérrez,Committee Member,district34@council.nyc.gov,
+nycgov-committeeoncivilandhumanrights_c1,001Ox00001eaqBiIAI,Christopher,Marte,Council Member,district1@council.nyc.gov,

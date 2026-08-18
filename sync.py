@@ -322,7 +322,7 @@ def build_org_accounts(rows):
 
 # ── Step 2: Org Contacts ──────────────────────────────────────────────────────
 
-ORG_CONT_FIELDS = ['Contact_External_ID__c','AccountId','FirstName','LastName','Title','Email']
+ORG_CONT_FIELDS = ['Contact_External_ID__c','AccountId','FirstName','LastName','Title','Email','LinkedIn_URL__c']
 
 MANUAL_MIGRATION_ACCOUNTS = {'compass(26026p0003)'}
 
@@ -368,6 +368,7 @@ def build_org_contacts(rows, ext_to_sfid):
                 'LastName':  last if not is_blank(last) else first,
                 'Title':     truncate(title, 255),
                 'Email':     clean_email(email),
+                'LinkedIn_URL__c': '',
             })
     return out
 
@@ -631,6 +632,8 @@ def build_p2_org_accounts(rows, existing_ids):
         RELATIONSHIP_MAP = {
             'Corporate': 'Corporate Partner',
             'Foundation': 'Funder',
+            'Government': 'Prospect',
+            'Employee Resource Group': 'Prospect',
         }
         rel = RELATIONSHIP_MAP.get(rel, rel)
         # Derive Type from Source_Sheet__c prefix
@@ -675,6 +678,17 @@ def build_p2_org_accounts(rows, existing_ids):
     return out
 
 
+def _extract_linkedin_url(text):
+    """Extract a LinkedIn profile URL from text, return the URL or ''."""
+    if not text:
+        return ''
+    m = re.search(r'(?:https?://)?(?:www\.)?linkedin\.com/in/[a-zA-Z0-9_-]+/?', text, re.IGNORECASE)
+    if m:
+        url = m.group(0)
+        return url if url.startswith('http') else f'https://{url}'
+    return ''
+
+
 def build_p2_org_contacts(rows, existing_ids, ext_to_sfid):
     out, seen = [], {}
     for row in rows:
@@ -687,6 +701,8 @@ def build_p2_org_contacts(rows, existing_ids, ext_to_sfid):
                 ext_id = eid
                 break
         sf_id = ext_to_sfid.get(ext_id, '')
+        # Check Research_Links__c for a LinkedIn URL (shared across contacts)
+        research_linkedin = _extract_linkedin_url(row.get('Research_Links__c', ''))
         for i in range(1, 4):
             if i == 1:
                 full_name = str(row.get('Contact 1 NameRaw', '')).strip()
@@ -704,9 +720,24 @@ def build_p2_org_contacts(rows, existing_ids, ext_to_sfid):
                 continue
             if full_name in ('—', '–', '-', 'N/A') or re.match(r'^\d+\.$', full_name):
                 continue
-            parts = full_name.rsplit(' ', 1)
-            first = parts[0].strip() if len(parts) > 1 else full_name.strip()
+            # Extract LinkedIn URL from email field if present
+            linkedin_url = _extract_linkedin_url(email)
+            # Only assign Research_Links__c LinkedIn to the first contact
+            if not linkedin_url and i == 1 and research_linkedin:
+                linkedin_url = research_linkedin
+            # Clean up: take only the first name if multiple are crammed in
+            # (newlines, semicolons, etc.)
+            first_part = re.split(r'[;\n\r]+', full_name)[0].strip()
+            if not first_part:
+                first_part = full_name.strip()
+            parts = first_part.rsplit(' ', 1)
+            first = parts[0].strip() if len(parts) > 1 else first_part.strip()
             last = parts[1].strip() if len(parts) > 1 else first
+            # Truncate to SF limits: FirstName=40, LastName=80
+            first = truncate(first, 40)
+            last = truncate(last, 80)
+            if not first and not last:
+                continue
             base = f"{ext_id}_c{i}"
             n = seen.get(base, 0) + 1
             seen[base] = n
@@ -716,14 +747,16 @@ def build_p2_org_contacts(rows, existing_ids, ext_to_sfid):
                 'AccountId': sf_id,
                 'FirstName': first,
                 'LastName':  last,
-                'Title':     truncate(title, 255),
+                'Title':     truncate(title, 128),
                 'Email':     clean_email(email),
+                'LinkedIn_URL__c': linkedin_url,
             })
     return out
 
 
 def build_p2_org_opps(rows, existing_ids, ext_to_sfid):
     out = []
+    seen_opty = {}  # opty_ext_id → record dict, for dedup
     for row in rows:
         name = str(row.get('Name', '')).strip()
         if not name:
@@ -738,15 +771,25 @@ def build_p2_org_opps(rows, existing_ids, ext_to_sfid):
         amount   = clean_amount(row.get('Grant Amount', ''))
         due      = str(row.get('Due Date', '')).strip()
         grant_text = str(row.get('Grant Amount', '')).strip()
-        out.append({
-            'Opportunity_External_ID__c': f"{ext_id}_opty",
+        opty_ext = f"{ext_id}_opty"
+        record = {
+            'Opportunity_External_ID__c': opty_ext,
             'Name':        truncate(f"{name} Grant Application", 120),
             'AccountId':   sf_id,
             'StageName':   map_stage(status),
             'CloseDate':   parse_close_date(due),
             'Amount':      amount,
             'Description': truncate(f"Grant range: {grant_text}", 255) if grant_text else '',
-        })
+        }
+        # Deduplicate: merge into existing record if same opty ext_id
+        if opty_ext in seen_opty:
+            existing = seen_opty[opty_ext]
+            for k, v in record.items():
+                if v and not existing.get(k):
+                    existing[k] = v
+        else:
+            seen_opty[opty_ext] = record
+            out.append(record)
     return out
 
 

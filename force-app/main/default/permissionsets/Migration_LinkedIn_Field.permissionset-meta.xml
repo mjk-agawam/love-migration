@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>Migration LinkedIn Field</label>
+    <description>Grants read/write access to LinkedIn_URL__c on Contact for data migration.</description>
+    <hasActivationRequired>false</hasActivationRequired>
+    <fieldPermissions>
+        <field>Contact.LinkedIn_URL__c</field>
+        <editable>true</editable>
+        <readable>true</readable>
+    </fieldPermissions>
+</PermissionSet>
